@@ -9,7 +9,7 @@ http://223.110.241.204:6610/cntv/live1/cctv-3/cctv-3
 #EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110835475.png",CCTV4-中文国际高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141952037.png",CCTV5-体育高清-线路1
-http://223.110.241.204:6610/cntv/live1/cctv-5/cctv-5
+http://223.110.243.157/PLTV/3/224/3221226324/index.m3u8
 #EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223112958494.png",CCTV5+体育赛事-线路1
 http://223.110.241.204:6610/cntv/live1/hdcctv05plus/hdcctv05plus
 #EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170606163607734.png",CCTV6-电影高清-线路1
