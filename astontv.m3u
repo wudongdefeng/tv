@@ -92,6 +92,30 @@ http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",非凡新闻
 http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1,港台電視 31
+http://14.199.11.35:9981/stream/channelid/1560435720
+#EXTINF:-1,港台電視 32
+http://14.199.11.35:9981/stream/channelid/422884449
+#EXTINF:-1,中央電視台綜合頻道（CCTV-1 綜合）
+http://14.199.11.35:9981/stream/channelid/1098368531
+#EXTINF:-1,香港國際財經台
+http://14.199.11.35:9981/stream/channelid/1441607945
+#EXTINF:-1,香港開電視
+http://14.199.11.35:9981/stream/channelid/1204509490
+#EXTINF:-1,翡翠台
+http://14.199.11.35:9981/stream/channelid/1958045562
+#EXTINF:-1,J2台
+http://14.199.11.35:9981/stream/channelid/143767574
+#EXTINF:-1,無綫新聞台
+http://14.199.11.35:9981/stream/channelid/2000643225
+#EXTINF:-1,明珠台
+http://14.199.11.35:9981/stream/channelid/815865434
+#EXTINF:-1,無綫財經 · 資訊台
+http://14.199.11.35:9981/stream/channelid/263033942
+#EXTINF:-1,ViuTVsix
+http://14.199.11.35:9981/stream/channelid/1040199188
+#EXTINF:-1,ViuTV
+http://14.199.11.35:9981/stream/channelid/465387003
 #EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,HBO中文
