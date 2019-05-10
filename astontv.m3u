@@ -108,3 +108,5 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",星卫电影HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",Channel V音乐台
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
