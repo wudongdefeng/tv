@@ -92,7 +92,7 @@ http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
 #EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",非凡新闻
 http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
-#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,英国天空新闻台
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,HBO中文
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",HBO中文
 http://218.202.220.2:5000/nn_live.ts?id=HBO
