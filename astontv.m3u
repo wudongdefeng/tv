@@ -96,3 +96,5 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",HBO中文
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
