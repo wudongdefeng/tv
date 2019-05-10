@@ -1,106 +1,98 @@
 #EXTM3U
 
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142259333.png",CCTV1-综合高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142259333.png",CCTV1-综合高清-线路1
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110819097.png",CCTV2-财经高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110819097.png",CCTV2-财经高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-2/cctv-2
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142606994.png",CCTV3-综艺高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142606994.png",CCTV3-综艺高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-3/cctv-3
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110835475.png",CCTV4-中文国际高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110835475.png",CCTV4-中文国际高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141952037.png",CCTV5-体育高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141952037.png",CCTV5-体育高清-线路1
 http://223.110.243.157/PLTV/3/224/3221226324/index.m3u8
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223112958494.png",CCTV5+体育赛事-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223112958494.png",CCTV5+体育赛事-线路1
 http://223.110.241.204:6610/cntv/live1/hdcctv05plus/hdcctv05plus
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170606163607734.png",CCTV6-电影高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170606163607734.png",CCTV6-电影高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-6/cctv-6
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170606163607734.png",CCTV6-电影高清-线路2-1080P
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170606163607734.png",CCTV6-电影高清-线路2-1080P
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110959669.png",CCTV7-军事农业高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223110959669.png",CCTV7-军事农业高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-6/cctv-7
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111018859.png",CCTV9-纪录高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111018859.png",CCTV9-纪录高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-9/cctv-9
-#EXTINF:-1group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111050569.png",CCTV10-科教高清-线路1
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111050569.png",CCTV10-科教高清-线路1
 http://223.110.241.204:6610/cntv/live1/cctv-9/cctv-10
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223135017852.png",HNTV1-河南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223135017852.png",HNTV1-河南卫视
 http://223.110.241.204:6610/cntv/live1/henanstv/henanstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141840304.png",深圳卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141840304.png",深圳卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141720572.png",浙江卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123141720572.png",浙江卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123173318629.png",湖南卫视高清-线路1
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123173318629.png",湖南卫视高清-线路1
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142122509.png",东方卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142122509.png",东方卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142158393.png",山东卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123142158393.png",山东卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104530715.png",山西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104530715.png",山西卫视
 http://223.110.241.204:6610/cntv/live1/shanxistv/shanxistv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143357469.png",天津卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143357469.png",天津卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143325853.png",江西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143325853.png",江西卫视
 http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143207510.png",重庆卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143207510.png",重庆卫视
 http://223.110.241.204:6610/cntv/live1/chongqingstv/chongqingstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143140223.png",北京卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143140223.png",北京卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143120163.png",江苏卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143120163.png",江苏卫视高清
 http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143050625.png",黑龙江卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20150123143050625.png",黑龙江卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111642374.png",广东卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111642374.png",广东卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111451767.png",辽宁卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111451767.png",辽宁卫视高清
 http://223.110.241.204:6610/cntv/live1/liaoningstv/liaoningstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111533186.png",安徽卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223111533186.png",安徽卫视高清
 http://223.110.241.204:6610/cntv/live1/anhuistv/anhuistv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223113101008.png",四川卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223113101008.png",四川卫视
 http://223.110.241.204:6610/cntv/live1/sichuanstv/sichuanstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104600556.png",河北卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104600556.png",河北卫视
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223113035858.png",云南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20161223113035858.png",云南卫视
 http://223.110.241.204:6610/cntv/live1/yunnanstv/yunnanstv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104637042.png",贵州卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104637042.png",贵州卫视
 http://223.110.241.204:6610/cntv/live1/guizhoustv/guizhoustv
-#EXTINF:-1group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",湖北卫视高清
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",湖北卫视高清
 http://223.110.241.204:6610/cntv/live1/hubeistv/hubeistv
-#EXTINF:-1group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",凤凰资讯
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",凤凰中文
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",凤凰中文
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 ,亞洲電視A1台
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",亞洲電視A1台
 https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 ,亞洲電視經典台
-https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8
-#EXTINF:-1 ,nowtv
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",nowtv
 http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
-#EXTINF:-1 ,TVB翡翠
-http://123.207.42.38/tvb.php?type=jade
-#EXTINF:-1 ,香港31台
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",香港31台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 ,奇妙电视
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",奇妙电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 ,奇妙77台
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",奇妙77台
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 ,本港台
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",本港台
 http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 ,台湾中天新闻
-http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 ,台视新闻
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",台视新闻
 http://live.italkdd.com/cds160/hls/channel006/channel006.m3u8
-#EXTINF:-1 ,民视新闻台
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",民视新闻台
 http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
-#EXTINF:-1 ,东森新闻
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",东森新闻
 http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
-#EXTINF:-1 ,民事新闻1
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",民事新闻1
 http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
-#EXTINF:-1 ,台视新闻
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",台视新闻
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
-#EXTINF:-1 ,非凡新闻
+#EXTINF:-1 group-title="港台频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",非凡新闻
 http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
-#EXTINF:-1 ,壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-#EXTINF:-1 ,英国天空新闻台
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 ,HBO中文
+#EXTINF:-1 group-title="欧美频道" tvg-logo="http://asg.ott.henancatv.com:9005/poster/channel/20170217104449109.png",,HBO中文
 http://218.202.220.2:5000/nn_live.ts?id=HBO
