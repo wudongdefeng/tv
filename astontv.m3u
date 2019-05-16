@@ -195,12 +195,28 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 group-title="欧美频道" ,英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="欧美频道" ,HBO中文
+#EXTINF:-1 group-title="欧美电影" ,HBO中文
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 group-title="欧美频道", HBO
+#EXTINF:-1 group-title="欧美电影", HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 group-title="欧美频道", HBO2
+#EXTINF:-1 group-title="欧美电影", HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="欧美频道",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:tvg-logo="" group-title="欧美电影",CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:tvg-logo="" group-title="欧美电影",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:tvg-logo="" group-title="欧美电影",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:tvg-logo="http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220" group-title="欧美电影",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="欧美电影",HBO HD
+http://125.227.210.37:8895/VideoInput/play.ts
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="欧美电影",HBO SD
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:tvg-logo="" group-title="欧美",好莱坞电影 HD
+http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 group-title="欧美频道" ,国家地理频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 group-title="欧美频道" ,探索科学
