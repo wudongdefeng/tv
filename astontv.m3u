@@ -201,7 +201,7 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 group-title="欧美电影", HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 group-title="欧美频道",FOX MOVIES COMEDY
+#EXTINF:-1 group-title="欧美电影",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group-title="欧美电影",CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
@@ -217,9 +217,9 @@ http://125.227.210.37:8895/VideoInput/play.ts
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 group-title="欧美电影",好莱坞电影 HD
 http://125.227.210.37:8909/VideoInput/play.ts
-#EXTINF:-1 group-title="欧美频道" ,国家地理频道
+#EXTINF:-1 group-title="欧美电影" ,国家地理频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 group-title="欧美频道" ,探索科学
+#EXTINF:-1 group-title="欧美电影" ,探索科学
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 group-title="欧美频道",WFCHD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
