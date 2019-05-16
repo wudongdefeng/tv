@@ -150,7 +150,35 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 group-title="欧美频道" ,探索科学
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="欧美频道" ,星卫电影HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="欧美频道" ,Channel V音乐台
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 group-title="电影频道" ,电影-周星驰
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-黑帮大片
+https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-刘德华
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-顶级科幻
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-速度与激情
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-好莱坞
+https://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-惊悚大片
+https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-搞笑港片
+https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-变形金刚
+https://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 group-title="电影频道",电影-金庸电影
+https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-徐峥
+https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-生化危机
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-战争片
+https://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",电影-黄晓明
+https://ws4.streamhls.huya.com/huyalive/30765679-2484192728-10669526523721023488-3048991650-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 group-title="电影频道",电影-重案六组
+https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
