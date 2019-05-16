@@ -215,7 +215,7 @@ http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1 group-title="欧美电影",HBO SD
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 group-title="欧美",好莱坞电影 HD
+#EXTINF:-1 group-title="欧美电影",好莱坞电影 HD
 http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 group-title="欧美频道" ,国家地理频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
