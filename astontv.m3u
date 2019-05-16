@@ -138,6 +138,8 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 group-title="港台频道" ,华视新闻
 http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+#EXTINF:-1 group-title="韩国频道",TV
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 group-title="欧美频道" ,英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="欧美频道" ,HBO中文
