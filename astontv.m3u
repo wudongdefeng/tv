@@ -138,8 +138,61 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 group-title="港台频道" ,华视新闻
 http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+#EXTINF:-1 group-title="体育频道",BEST tv HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+#EXTINF:-1 group-title="音乐频道",@新影視
+http://dlhls.live.cnlive.com:1935/cdn/xinyingshi/chunklist_w648453147.m3u8
+#EXTINF:-1 group-title="音乐频道" ,Channel V音乐台
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 group-title="音乐频道" ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="音乐频道" ,德国音乐mv
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="音乐频道" ,法国音乐
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:-1 group-title="音乐频道",JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="音乐频道",@TV炫韓娛
+rtmp://dlrtmp.live.cnlive.com:1935/cdn/xuanhanyu
+#EXTINF:-1 group-title="音乐频道",@TV in樂臺
+http://dlhls.live.cnlive.com:1935/cdn/inyuetai/playlist.m3u8
+#EXTINF:-1 group-title="音乐频道",m2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="音乐频道",1First Music HD
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="音乐频道",Первый музыкальный HD(Белорусь)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 group-title="音乐频道",Turkia dreamTVHD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="音乐频道",ONE ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="音乐频道",ONE One Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="音乐频道",1 Music Channel
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:-1 group-title="音乐频道",dream TV HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="音乐频道",Italia RADIO MONTE CARLO TV (2)
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1 ,JuCeTV JuCeTV Россия
+#EXTINF:-1 group-title="日本频道",日本映画
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",EBS-E
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",EBS-2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",EBS-1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",TV-chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩国音乐台
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1 group-title="越南频道",越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="越南频道",SCTV5(越南)
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 group-title="欧美频道" ,英国天空新闻台
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="欧美频道" ,HBO中文
@@ -152,8 +205,10 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 group-title="欧美频道" ,探索科学
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="欧美频道" ,Channel V音乐台
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 group-title="欧美频道",WFCHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="欧美频道",111 TV
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
 #EXTINF:-1 group-title="电影频道" ,电影-周星驰
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="电影频道",电影-黑帮大片
