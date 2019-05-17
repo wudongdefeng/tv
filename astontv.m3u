@@ -134,6 +134,8 @@ http://223.110.241.204:6610/cntv/live1/yunnanstv/yunnanstv
 http://223.110.241.204:6610/cntv/live1/guizhoustv/guizhoustv
 #EXTINF:-1 group-title="卫视频道" ,湖北卫视高清
 http://223.110.241.204:6610/cntv/live1/hubeistv/hubeistv
+#EXTINF:-1 group-title="体育频道" ,ESPN (v2)
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 group-title="港台频道" ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港台频道" ,凤凰中文
