@@ -62,6 +62,36 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
 #EXTINF:-1 group-title="央视频道-移动",CCTV怀旧剧场
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV1
+http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV2
+http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV3
+http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV4
+http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV5
+http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV6
+http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV7
+http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV8
+http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV9
+http://cctvcnch5c.v.wscdns.com/live/cctv9_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV10
+http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV11
+http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV12
+http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV13
+http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV14
+http://cctvcnch5c.v.wscdns.com/live/cctv14_2/index.m3u8
+#EXTINF:-1 group-title="央视频道-其它",CCTV15
+http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 group-title="卫视频道" ,HNTV1-河南卫视
 http://223.110.241.204:6610/cntv/live1/henanstv/henanstv
 #EXTINF:-1 group-title="卫视频道" ,深圳卫视高清
@@ -174,11 +204,18 @@ http://92.249.129.152/stream/1music.m3u8
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="音乐频道",Italia RADIO MONTE CARLO TV (2)
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1 ,JuCeTV JuCeTV Россия
 #EXTINF:-1 group-title="日本频道",日本映画
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本频道",CINEMA 洋片
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8 
+#EXTINF:-1 group-title="日本频道",家庭影院-日本
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8 
+#EXTINF:-1 group-title="日本频道",BS日本映画
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-CBS",
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",EBS-E
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",EBS-2
