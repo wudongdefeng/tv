@@ -144,6 +144,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 group-title="港台频道" ,nowtv
 http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+#EXTINF:-1 group-title="港台频道" ,东森电影台HD
+http://125.227.210.37:8893/VideoInput/play.ts
 #EXTINF:-1 group-title="港台频道" ,香港31台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 group-title="港台频道" ,奇妙电视
