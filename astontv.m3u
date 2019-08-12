@@ -130,7 +130,7 @@ http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
 http://223.110.241.204:6610/cntv/live1/chongqingstv/chongqingstv
 #EXTINF:-1 group-title="卫视频道" ,北京卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-#EXTINF:-1 group-title="卫视频道" 江苏卫视高清
+#EXTINF:-1 group-title="卫视频道" ,江苏卫视高清
 http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
 #EXTINF:-1 group-title="卫视频道" ,黑龙江卫视高清
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
