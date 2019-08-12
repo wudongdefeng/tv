@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-1蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-2蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-3蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-4蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-5蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-5+蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-6蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 group-title="央视频道-蓝光" ,CCTV-8蓝光
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 #EXTINF:-1 group-title="央视频道",CCTV1-综合高清-线路1
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
 #EXTINF:-1 group-title="央视频道" ,CCTV2-财经高清-线路1
