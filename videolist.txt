@@ -3,23 +3,23 @@
     "name": "JABLE",
     "title": "JableTV",
     "link": "https://jable.tv",
-    "description": "JABLE",
+    "description": "Jable TV",
     "localImageResource": "jabletv",
     "presenter": "Movie",
     "inword":".m3u8,.mp4",
     "uninword":"",
-    "next":"detail",
+    "next":"play",
     "thumb":"https://assets.jable.tv/assets/images/logo.png",
-    "category": [{"name":"最新上市","link":"https://jable.tv/new-release/"},{"name":"最近更新","link":"https://jable.tv/latest-updates/"},{"name":"热门影片","link":"https://jable.tv/latest-updates/"}],
+    "category": [{"name":"最近更新","link":"https://jable.tv/latest-updates/"},{"name":"最新上市","link":"https://jable.tv/new-release/"},{"name":"热门影片","link":"https://jable.tv/latest-updates/"}],
     "list": {
       "pagerule": "#page/",
       "pageone": "",
       "pagesize": 8,
       "useragent": "default",
-      "videoscontainer":{"selector":"h6.title a","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "thumb":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
+      "videoscontainer":{"selector":"div.video-img-box.mb-e-20","attrName":"", "filter": "" },
+      "title":{"selector":"h6.title a","attrName":"text","filter": "" },
+      "thumb":{"selector":"img","attrName":"data-src","filter": "" },
+      "link":{"selector":"h6.title a","attrName":"href","filter": "" }
     },
     "detail": {
       "useragent": "default",
@@ -33,13 +33,13 @@
     },
     "search": {
       "useragent": "default",
-      "pagerule": "",
+      "pagerule": "https://jable.tv/search/#msearchword/",
       "pageone": "",
       "pagesize": 8,
-      "videoscontainer":{"selector":"","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"title","filter": "" },
-      "thumb":{"selector":"","attrName":"src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
+	  "videoscontainer":{"selector":"div.video-img-box.mb-e-20","attrName":"", "filter": "" },
+      "title":{"selector":"h6.title a","attrName":"text","filter": "" },
+      "thumb":{"selector":"img","attrName":"data-src","filter": "" },
+      "link":{"selector":"h6.title a","attrName":"href","filter": "" }
     }
   },
   {
