@@ -1,7 +1,7 @@
 [
   {
-    "name": "JableTV1305",
-    "title": "JableTV",
+    "name": "JableTV",
+    "title": "JableTV1305",
     "link": "https://jable.tv",
     "description": "JableTV",
     "localImageResource": "jabletv",
