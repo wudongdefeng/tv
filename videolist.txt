@@ -1,48 +1,5 @@
 [
   {
-    "name": "NO视频",
-    "title": "NO视频",
-    "link": "https://www.novipnoad.com",
-    "description": "NO视频 www.novipnoad.com",
-    "localImageResource": "novipnoad",
-    "presenter": "Movie",
-    "inword":".m3u8,.mp4",
-    "uninword":"",
-    "next":"detail",
-    "thumb":"https://www.novipnoad.com/logo.png",
-    "category": [{"name":"电影","link":"https://www.novipnoad.com/movie/"},{"name":"全新上市","link":"https://jable.tv/new-release/"},{"name":"热门影片","link":"https://jable.tv/hot/"}],
-    "list": {
-      "pagerule": "#page/",
-      "pageone": "",
-      "pagesize": 8,
-      "useragent": "mobile",
-      "videoscontainer":{"selector":"div.col-md-3.col-sm-6.col-xs-6","attrName":"", "filter": "" },
-      "title":{"selector":"div.item-head","attrName":"text","filter": "" },
-      "thumb":{"selector":"div.item-thumbnail a img","attrName":"src","filter": "" },
-      "link":{"selector":"div.item-thumbnail a","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "default",
-      "videoscontainer":{"selector":"section.pb-3.pb-e-lg-30","attrName":"","filter": "" },
-      "title":{"selector":"div.header-left h4","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "pagerule": "",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"title","filter": "" },
-      "thumb":{"selector":"","attrName":"src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    }
-  },
-  {
     "name": "JableTV",
     "title": "JableTV",
     "link": "https://jable.tv",
@@ -52,7 +9,7 @@
     "inword":".m3u8,.mp4",
     "uninword":"",
     "next":"detail",
-    "thumb":"https://assets.jable.tv/assets/images/logo.png",
+    "thumb":"https://www.6vdy.org/skin/66scc/images/logo.png",
     "category": [{"name":"全新上市","link":"https://jable.tv/new-release/"},{"name":"热门影片","link":"https://jable.tv/hot/"}],
     "list": {
       "pagerule": "#page/",
