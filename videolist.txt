@@ -1,6 +1,6 @@
 [
   {
-    "name": "JableTV",
+    "name": "JableTV1305",
     "title": "JableTV",
     "link": "https://jable.tv",
     "description": "JableTV",
@@ -9,17 +9,17 @@
     "inword":".m3u8,.mp4",
     "uninword":"",
     "next":"detail",
-    "thumb":"https://www.6vdy.org/skin/66scc/images/logo.png",
+    "thumb":"https://assets.jable.tv/assets/images/logo.png",
     "category": [{"name":"全新上市","link":"https://jable.tv/new-release/"},{"name":"热门影片","link":"https://jable.tv/hot/"}],
     "list": {
       "pagerule": "#page/",
       "pageone": "",
       "pagesize": 8,
       "useragent": "default",
-      "videoscontainer":{"selector":"div.col-6.col-sm-4.col-lg-3","attrName":"", "filter": "" },
+      "videoscontainer":{"selector":"div.video-img-box.mb-e-20","attrName":"", "filter": "" },
       "title":{"selector":"h6.title a","attrName":"text","filter": "" },
       "thumb":{"selector":"img.lazyloaded","attrName":"src","filter": "" },
-      "link":{"selector":"div.img-box.cover-md a","attrName":"href","filter": "" }
+      "link":{"selector":"h6.title a","attrName":"href","filter": "" }
     },
     "detail": {
       "useragent": "default",
