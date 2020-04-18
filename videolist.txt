@@ -1,5 +1,48 @@
 [
   {
+    "name": "JableTV",
+    "title": "JableTV",
+    "link": "https://jable.tv",
+    "description": "JableTV",
+    "localImageResource": "jabletv",
+    "presenter": "Movie",
+    "inword":".m3u8,.mp4",
+    "uninword":"",
+    "next":"detail",
+    "thumb":"https://assets.jable.tv/assets/images/logo.png",
+    "category": [{"name":"全新上市","link":"https://jable.tv/new-release/"},{"name":"热门影片","link":"https://jable.tv/hot/"}],
+    "list": {
+      "pagerule": "#page/",
+      "pageone": "",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"div.col-6.col-sm-4.col-lg-3","attrName":"", "filter": "" },
+      "title":{"selector":"h6.title a","attrName":"text","filter": "" },
+      "thumb":{"selector":"img","attrName":"src","filter": "" },
+      "link":{"selector":"div.img-box.cover-md a","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "default",
+      "videoscontainer":{"selector":"section.pb-3.pb-e-lg-30","attrName":"","filter": "" },
+      "title":{"selector":"div.header-left h4","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "pagerule": "",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"title","filter": "" },
+      "thumb":{"selector":"","attrName":"src","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    }
+  },
+  {
     "name": "66YS",
     "title": "66影视网",
     "link": "https://www.66e.cc",
