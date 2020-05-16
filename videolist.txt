@@ -13,7 +13,7 @@
       "category":[
          {
             "name":"直播台",
-            "link":"http://m.iptv345.com"
+            "link":"http://m.iptv345.com/?act=home"
          }
       ],
       "list":{
