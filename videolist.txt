@@ -24,22 +24,22 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"ul",
+            "selector":"a",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"li a",
+            "selector":"",
             "attrName":"text",
             "filter":""
          },
          "thumb":{
-            "selector":"li a",
+            "selector":"",
             "attrName":"text",
             "filter":""
          },
          "link":{
-            "selector":"li a",
+            "selector":"",
             "attrName":"href",
             "filter":""
          }
