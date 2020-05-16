@@ -35,7 +35,7 @@
          },
          "thumb":{
             "selector":"",
-            "attrName":"text",
+            "attrName":"href",
             "filter":""
          },
          "link":{
