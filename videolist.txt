@@ -3,13 +3,13 @@
       "name":"電視直播",
       "title":"iptv345",
       "link":"http://m.iptv345.com",
-      "description":"網絡電視直播移動版",
+      "description":"網絡電視直播",
       "localImageResource":"",
       "presenter":"Movie",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/GMAoKnrG",
+      "thumb":"https://tlgur.com/d/gvqVRzzG",
       "category":[
          {
             "name":"港澳台",
@@ -7040,3 +7040,4 @@
       }
    }
 ]
+Stnh 
