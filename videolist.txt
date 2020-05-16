@@ -9,7 +9,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"",
+      "thumb":"https://tlgur.com/d/GMAoKnrG",
       "category":[
          {
             "name":"港澳台",
@@ -26,6 +26,10 @@
          {
             "name":"衛視台",
             "link":"http://m.iptv345.com/?tid=ws"
+         },
+         {
+            "name":"綜合",
+            "link":"http://m.iptv345.com/?tid=itv"
          }
       ],
       "list":{
