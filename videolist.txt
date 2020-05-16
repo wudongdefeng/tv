@@ -14,11 +14,23 @@
          {
             "name":"港澳台",
             "link":"http://m.iptv345.com/?tid=gt&t=8"
+         },
+         {
+            "name":"體育台",
+            "link":"http://m.iptv345.com/?tid=ty"
+         },
+         {
+            "name":"央視台",
+            "link":"http://m.iptv345.com/?tid=ys"
+         },
+         {
+            "name":"衛視台",
+            "link":"http://m.iptv345.com/?tid=ws"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"#page",
+         "pagerule":"",
          "fetchtype":"default",
          "pageone":"",
          "pagesize":8,
