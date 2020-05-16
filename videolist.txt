@@ -24,7 +24,7 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"li",
+            "selector":"ul li",
             "attrName":"",
             "filter":""
          },
