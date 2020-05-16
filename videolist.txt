@@ -3728,7 +3728,7 @@
       "localImageResource":"",
       "presenter":"Movie",
       "inword":".m3u8,.mp4",
-      "uninword":"",
+      "uninword":"static",
       "next":"detail",
       "thumb":"https://tlgur.com/d/4x772Pwg",
       "category":[
