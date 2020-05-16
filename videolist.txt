@@ -12,8 +12,8 @@
       "thumb":"",
       "category":[
          {
-            "name":"直播台",
-            "link":"http://m.iptv345.com"
+            "name":"港澳台",
+            "link":"http://m.iptv345.com/?tid=gt&t=8"
          }
       ],
       "list":{
