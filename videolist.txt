@@ -12,20 +12,8 @@
       "thumb":"https://tlgur.com/d/4NkjNoN8",
       "category":[
          {
-            "name":"港澳台",
-            "link":"http://m.iptv345.com/?tid=gt&t=8"
-         },
-         {
-            "name":"电影",
-            "link":"https://www.dolbytv.com/vodshow/1--------"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.dolbytv.com/vodshow/3--------"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.dolbytv.com/vodshow/4--------"
+            "name":"直播台",
+            "link":"http://m.iptv345.com"
          }
       ],
       "list":{
