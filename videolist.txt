@@ -33,7 +33,7 @@
          } ,
          {
             "name":"其他",
-            "link":"http://m.iptv345.com/?tid= other"
+            "link":"http://m.iptv345.com/?tid=other"
          } ,
          {
             "name":"電影",
