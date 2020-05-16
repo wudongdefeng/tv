@@ -9,11 +9,11 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/4NkjNoN8",
+      "thumb":"",
       "category":[
          {
             "name":"直播台",
-            "link":"http://m.iptv345.com/?act=home"
+            "link":"http://m.iptv345.com"
          }
       ],
       "list":{
@@ -22,30 +22,30 @@
          "fetchtype":"default",
          "pageone":"",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
-            "selector":"a",
+            "selector":"li",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
+            "selector":"a",
             "attrName":"text",
             "filter":""
          },
          "thumb":{
-            "selector":"",
+            "selector":"a",
             "attrName":"href",
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"a",
             "attrName":"href",
             "filter":""
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
             "selector":"option",
