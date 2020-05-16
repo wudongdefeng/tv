@@ -30,7 +30,16 @@
          {
             "name":"綜合",
             "link":"http://m.iptv345.com/?tid=itv"
+         } ,
+         {
+            "name":"其他",
+            "link":"http://m.iptv345.com/?tid= other"
+         } ,
+         {
+            "name":"電影",
+            "link":"http://m.iptv345.com/?tid= movie"
          }
+         
       ],
       "list":{
          "pagefilter":"",
