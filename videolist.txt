@@ -9,7 +9,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/gvqVRzzG",
+      "thumb":"https://tlgur.com/d/8ekvrJWg",
       "category":[
          {
             "name":"港澳台",
@@ -39,7 +39,6 @@
             "name":"電影",
             "link":"http://m.iptv345.com/?tid=movie"
          }
-         
       ],
       "list":{
          "pagefilter":"",
@@ -1537,16 +1536,24 @@
       "thumb":"https://tlgur.com/d/G7oBklDG",
       "category":[
          {
+            "name":"韩剧",
+            "link":"https://www.subaibai.com/movie_bt_series/hanju"
+         },
+        {
+            "name":"欧美剧",
+            "link":"https://www.subaibai.com/movie_bt_series/oumeiju"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.subaibai.com/movie_bt_series/guochanju"
+         },
+        {
             "name":"全部",
             "link":"https://www.subaibai.com/movie_bt"
          },
          {
             "name":"动漫电影",
             "link":"https://www.subaibai.com/movie_bt_series/dongmandy"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.subaibai.com/movie_bt_series/guochanju"
          },
          {
             "name":"国产电影",
@@ -1559,10 +1566,6 @@
          {
             "name":"日韩电影",
             "link":"https://www.subaibai.com/movie_bt_series/rihandy"
-         },
-         {
-            "name":"欧美剧",
-            "link":"https://www.subaibai.com/movie_bt_series/oumeiju"
          },
          {
             "name":"欧美电影",
@@ -1587,10 +1590,6 @@
          {
             "name":"综艺",
             "link":"https://www.subaibai.com/movie_bt_series/zongyi"
-         },
-         {
-            "name":"韩剧",
-            "link":"https://www.subaibai.com/movie_bt_series/hanju"
          },
          {
             "name":"香港经典电影",
