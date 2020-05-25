@@ -1,5 +1,53 @@
 [
    {
+    "name": "iptv",
+    "title": "IPTV",
+    "link": "https://pastebin.com",
+    "description": "IPTV",
+    "localImageResource": "",
+    "presenter": "Text",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4,.flv",
+    "uninword":"",
+    "next":"play",
+    "thumb":"https://s1.ax1x.com/2020/05/25/tpIOSJ.png",
+    "category":[{'name': '易得频道', 'link': 'https://netcut.cn/api/file/download/?note_id=5c0afae7b430de0c&file_id=5c0afae7b430de0c-1590377346917m2'},{'name': '欲得频道', 'link': 'https://netcut.cn/api/file/download/?note_id=5c0afae7b430de0c&file_id=5c0afae7b430de0c-159037734038410'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "",
+      "pageone": "",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"src","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "pagerule": "",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
+      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
+      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
+      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
+    }
+  },{
       "name":"電視直播",
       "title":"iptv345",
       "link":"http://m.iptv345.com",
