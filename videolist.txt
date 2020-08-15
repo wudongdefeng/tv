@@ -29,18 +29,18 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"h4.title a",
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
          "title":{
             "selector":"",
-            "attrName":"text",
+            "attrName":"title",
             "filter":""
          },
          "thumb":{
             "selector":"",
-            "attrName":"title",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
