@@ -10,7 +10,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/8ekk33Dg",
+      "thumb":"https://ae01.alicdn.com/kf/He2c9eea6769c41a3b7ae20ff1d30130bx.jpg",
       "category":[
          {
             "name":"国产动漫",
