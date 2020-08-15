@@ -53,7 +53,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"a.btn.btn-default",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
