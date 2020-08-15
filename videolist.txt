@@ -14,17 +14,17 @@
       "category":[
          {
             "name":"国产动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/21/page/"
+            "link":"http://www.dmdm2020.com/dongmantype/21"
          },
          {
             "name":"日本动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/20/page/"
+            "link":"http://www.dmdm2020.com/dongmantype/20"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"#page.html",
-         "pageone":"1.html",
+         "pagerule":"/page/#page.html",
+         "pageone":".html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
@@ -40,7 +40,7 @@
          },
          "thumb":{
             "selector":"",
-            "attrName":"title",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
