@@ -40,7 +40,7 @@
          },
          "thumb":{
             "selector":"",
-            "attrName":"data-original",
+            "attrName":"title",
             "filter":""
          },
          "link":{
@@ -53,7 +53,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.playlist1 a",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
