@@ -24,7 +24,7 @@
       "list":{
          "pagefilter":"",
          "pagerule":"/page/#page.html",
-         "pageone":".html",
+         "pageone":"/page/1.html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
