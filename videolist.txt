@@ -10,7 +10,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"jx.php,player.php",
       "next":"detail",
-      "thumb":"https://www.7xiady.cc/statics/img/logo_max.png",
+      "thumb":"https://tlgur.com/d/g2ZJrmXg",
       "category":[
          {
             "name":"电影",
