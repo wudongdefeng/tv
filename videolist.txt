@@ -231,7 +231,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/g2ZJrmXg",
+      "thumb":"https://tlgur.com/d/GayM6ONG",
       "category":[
          {
             "name":"国语配音电影",
@@ -247,13 +247,13 @@
             "link":"http://9ekk.com/vodshow/zuijinrebodianshiju/page/"
          },
          {
-            "name":"综艺",
+            "name":"美剧",
             "link":"http://9ekk.com/vodshow/rebomeiju/page/"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"page.html",
+         "pagerule":"#page.html",
          "pageone":"1.html",
          "fetchtype":"default",
          "pagesize":8,
