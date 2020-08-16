@@ -3261,23 +3261,23 @@
       "category":[
          {
             "name":"欧美剧",
-            "link":"https://epang.ml/movie_bt_series/en"
+            "link":"https://epang.ml/movie_bt/movie_bt_series/en"
          },
          {
             "name":"日韩剧",
-            "link":"https://epang.ml/movie_bt_series/kr"
+            "link":"https://epang.ml/movie_bt/movie_bt_series/kr"
          },
          {
             "name":"电影",
-            "link":"https://epang.ml/movie_bt_series/movie"
+            "link":"https://epang.ml/movie_bt/movie_bt_series/movie"
          },
          {
             "name":"动画片",
-            "link":"https://epang.ml/movie_bt_series/donghua"
+            "link":"https://epang.ml/movie_bt/movie_bt_series/donghua"
          },
          {
             "name":"纪录片",
-            "link":"https://epang.ml/movie_bt_series/jlp"
+            "link":"https://epang.ml/movie_bt/movie_bt_series/jlp"
          }
       ],
       "list":{
