@@ -1,35 +1,44 @@
 [
    {
-      "name":"dmdm2020",
-      "title":"哆咪动漫网",
-      "link":"http://www.dmdm2020.com",
-      "description":"哆咪动漫网",
+      "name":"7xiady",
+      "title":"奇侠高清",
+      "link":"https://www.7xiady.cc",
+      "description":"秋霞电影网",
       "localImageResource":"",
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://ae01.alicdn.com/kf/He2c9eea6769c41a3b7ae20ff1d30130bx.jpg",
+      "thumb":"https://www.7xiady.cc/statics/img/logo_max.png",
       "category":[
          {
-            "name":"国产动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/21"
+            "name":"电影",
+            "link":"https://www.7xiady.cc/type/dianying/"
          },
          {
-            "name":"日本动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/20"
+            "name":"连续剧",
+            "link":"https://www.7xiady.cc/type/lianxuju/"
+         }
+		 ,
+         {
+            "name":"动漫",
+            "link":"https://www.7xiady.cc/type/dongman/"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.7xiady.cc/type/zongyi/"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "pageone":".html",
+         "pagerule":"-#page/",
+         "pageone":"",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -53,7 +62,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.myui-content__list a",
+            "selector":"ul.stui-content__playlist a",
             "attrName":"",
             "filter":""
          },
@@ -76,11 +85,11 @@
       "search":{
          "useragent":"default",
          "fetchtype":"default",
-         "pagerule":"http://www.dmdm2020.com/dongmansearch/wd/#msearchword/page/#mpageno.html",
+         "pagerule":"https://www.7xiady.cc/index.php/search/#msearchword----------#mpageno---/",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
