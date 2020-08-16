@@ -8,7 +8,7 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"jx.php",
+      "uninword":"jx.php,player.php",
       "next":"detail",
       "thumb":"https://www.7xiady.cc/statics/img/logo_max.png",
       "category":[
@@ -32,8 +32,8 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"/-#page/",
-         "pageone":"/-1/",
+         "pagerule":"-#page/",
+         "pageone":"-1/",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
