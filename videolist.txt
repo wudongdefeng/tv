@@ -8,32 +8,32 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"",
+      "uninword":"jx.php",
       "next":"detail",
       "thumb":"https://www.7xiady.cc/statics/img/logo_max.png",
       "category":[
          {
             "name":"电影",
-            "link":"https://www.7xiady.cc/type/dianying/"
+            "link":"https://www.7xiady.cc/type/dianying"
          },
          {
             "name":"连续剧",
-            "link":"https://www.7xiady.cc/type/lianxuju/"
+            "link":"https://www.7xiady.cc/type/lianxuju"
          }
 		 ,
          {
             "name":"动漫",
-            "link":"https://www.7xiady.cc/type/dongman/"
+            "link":"https://www.7xiady.cc/type/dongman"
          },
          {
             "name":"综艺",
-            "link":"https://www.7xiady.cc/type/zongyi/"
+            "link":"https://www.7xiady.cc/type/zongyi"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page/",
-         "pageone":"",
+         "pagerule":"/-#page/",
+         "pageone":"/-1/",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
