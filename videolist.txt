@@ -50,8 +50,8 @@
          }
       },
       "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
+         "useragent":"mobile",
+         "fetchtype":"browser",
 		 "onclick":"yes",
          "clickcontainer":{
             "selector":"div.zbnav span",
