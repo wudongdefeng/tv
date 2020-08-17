@@ -270,7 +270,7 @@
          "thumb":{
             "selector":"img",
             "attrName":"src",
-            "filter":""
+            "filter":"\\/\\/(.*)"
          },
          "link":{
             "selector":"",
@@ -6980,19 +6980,19 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://www.nicemov.com/search4.php?searchtype=5&tid=1"
+            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=1"
          },
          {
             "name":"电视剧",
-            "link":"https://www.nicemov.com/search4.php?searchtype=5&tid=2"
+            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=2"
          },
          {
             "name":"综艺",
-            "link":"https://www.nicemov.com/search4.php?searchtype=5&tid=3"
+            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=3"
          },
          {
             "name":"动漫",
-            "link":"https://www.nicemov.com/search4.php?searchtype=5&tid=4"
+            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=4"
          }
       ],
       "list":{
