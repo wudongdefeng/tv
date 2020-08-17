@@ -270,7 +270,7 @@
          "thumb":{
             "selector":"img",
             "attrName":"src",
-            "filter":"\\/\\/(.*)"
+            "filter":"\/\/(.*)"
          },
          "link":{
             "selector":"",
