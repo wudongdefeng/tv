@@ -405,13 +405,7 @@
       },
       "detail":{
          "useragent":"mobile",
-         "fetchtype":"browser",
-		 "onclick":"yes",
-         "clickcontainer":{
-            "selector":"button.vjs-big-play-button",
-            "attrName":"",
-            "filter":""
-         },
+         "fetchtype":"default",
          "videoscontainer":{
             "selector":"ul.myui-content__list li a",
             "attrName":"",
@@ -430,7 +424,7 @@
       },
       "play":{
          "useragent":"default",
-         "filter":"media_url=(.*)&url=",
+         "filter":"",
          "player":"exo2"
       },
       "search":{
