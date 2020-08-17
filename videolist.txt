@@ -330,131 +330,7 @@
          }
       }
    },
-   {
-      "name":"Duboku",
-      "title":"独播库",
-      "link":"https://www.duboku.co",
-      "description":"www.duboku.tv",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/81eeDwo8",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.duboku.co/vodtype/1"
-         },
-		 {
-            "name":"电视剧更新",
-            "link":"https://www.duboku.co/vodtype/2"
-         },
-         {
-            "name":"英美剧",
-            "link":"https://www.duboku.co/vodtype/16"
-         },
-         {
-            "name":"日韩剧",
-            "link":"https://www.duboku.co/vodtype/15"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.duboku.co/vodtype/13"
-         },
-         {
-            "name":"港台泰剧",
-            "link":"https://www.duboku.co/vodtype/14"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.duboku.co/vodtype/3"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.duboku.co/vodtype/4"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page.html",
-         "fetchtype":"default",
-         "pageone":".html",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-content__list li a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"default",
-         "filter":"",
-         "player":"exo2"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.duboku.co/vodsearch/#msearchword----------#mpageno---.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
+
    {
       "name":"Novipnoad",
       "title":"NO视频",
@@ -818,54 +694,6 @@
       }
    },
    {
-    "name": "iptv",
-    "title": "IPTV",
-    "link": "https://pastebin.com",
-    "description": "IPTV",
-    "localImageResource": "",
-    "presenter": "Text",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4,.flv",
-    "uninword":"",
-    "next":"play",
-    "thumb":"https://s1.ax1x.com/2020/05/25/tpIOSJ.png",
-    "category":[{'name': '易得频道', 'link': 'https://netcut.cn/api/file/download/?note_id=5c0afae7b430de0c&file_id=5c0afae7b430de0c-1590377346917m2'},{'name': '欲得频道', 'link': 'https://netcut.cn/api/file/download/?note_id=5c0afae7b430de0c&file_id=5c0afae7b430de0c-159037734038410'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "",
-      "pageone": "",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "default",
-      "videoscontainer":{"selector":"a","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "thumb":{"selector":"","attrName":"src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "default",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"default",
-      "pagerule": "",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
-      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
-      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
-    }
-  },{
       "name":"電視直播",
       "title":"iptv345",
       "link":"http://m.iptv345.com",
@@ -7291,6 +7119,131 @@
          "pagesize":8,
          "videoscontainer":{
             "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"Duboku",
+      "title":"独播库",
+      "link":"https://www.duboku.co",
+      "description":"www.duboku.tv",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/81eeDwo8",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.duboku.co/vodtype/1"
+         },
+		 {
+            "name":"电视剧更新",
+            "link":"https://www.duboku.co/vodtype/2"
+         },
+         {
+            "name":"英美剧",
+            "link":"https://www.duboku.co/vodtype/16"
+         },
+         {
+            "name":"日韩剧",
+            "link":"https://www.duboku.co/vodtype/15"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.duboku.co/vodtype/13"
+         },
+         {
+            "name":"港台泰剧",
+            "link":"https://www.duboku.co/vodtype/14"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.duboku.co/vodtype/3"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.duboku.co/vodtype/4"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "fetchtype":"default",
+         "pageone":".html",
+         "pagesize":8,
+         "useragent":"mobile",
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.myui-content__list li a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"default",
+         "filter":"",
+         "player":"exo2"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.duboku.co/vodsearch/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
