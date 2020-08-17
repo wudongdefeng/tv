@@ -330,7 +330,6 @@
          }
       }
    },
-
    {
       "name":"Novipnoad",
       "title":"NO视频",
@@ -565,6 +564,117 @@
          "pagesize":8,
          "videoscontainer":{
             "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"8hyy",
+      "title":"8号影院",
+      "link":"http://8hyy.cc",
+      "description":"9亿看看",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/GayM6ONG",
+      "category":[
+         {
+            "name":"电影",
+            "link":"http://8hyy.cc/frim/1"
+         },
+         {
+            "name":"电视剧",
+            "link":"http://8hyy.cc/frim/2"
+         }
+		 ,
+         {
+            "name":"综艺",
+            "link":"http://8hyy.cc/frim/3"
+         },
+         {
+            "name":"动漫",
+            "link":"http://8hyy.cc/frim/4"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "pageone":".html",
+         "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"mobile",
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.stui-content__playlist a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"url=(.*)",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "pagerule":"http://8hyy.cc/search.php?page=#mpageno&searchword=#msearchword&searchtype=",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.v-thumb",
             "attrName":"",
             "filter":""
          },
