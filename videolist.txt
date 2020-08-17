@@ -379,7 +379,7 @@
          "pagefilter":"",
          "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":".html",
+         "pageone":"-1.html",
          "pagesize":8,
          "useragent":"mobile",
          "videoscontainer":{
@@ -404,8 +404,8 @@
          }
       },
       "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
+         "useragent":"mobile",
+         "fetchtype":"browser",
          "videoscontainer":{
             "selector":"ul.myui-content__list li a",
             "attrName":"",
