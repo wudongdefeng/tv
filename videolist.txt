@@ -7060,7 +7060,13 @@
       },
       "detail":{
          "useragent":"mobile",
-         "fetchtype":"default",
+         "fetchtype":"browser",
+		 "onclick":"yes",
+         "clickcontainer":{
+            "selector":"button.vjs-big-play-button",
+            "attrName":"",
+            "filter":""
+         },
          "videoscontainer":{
             "selector":"ul.myui-content__list li a",
             "attrName":"",
@@ -7156,8 +7162,8 @@
          }
       },
       "detail":{
-         "useragent":"default",
-         "fetchtype":"mobile",
+         "useragent":"mobile",
+         "fetchtype":"default",
          "onclick":"yes",
          "clickcontainer":{
             "selector":"a.multilink-btn",
