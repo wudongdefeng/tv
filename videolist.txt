@@ -7064,7 +7064,7 @@
       },
       "detail":{
          "useragent":"mobile",
-         "fetchtype":"browser",
+         "fetchtype":"default",
 		 "onclick":"no",
          "clickcontainer":{
             "selector":"button.vjs-big-play-button",
@@ -7144,7 +7144,7 @@
          "pageone":"",
          "fetchtype":"default",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
             "selector":"div.post-box-container",
             "attrName":"",
@@ -7197,7 +7197,7 @@
          "player":"vlc"
       },
       "search":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "pagerule":"https://www.novipnoad.com/page/#mpageno/?s=#msearchword",
          "pageone":"",
