@@ -2406,7 +2406,7 @@
          "pageone":"",
          "fetchtype":"default",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
             "selector":"div.bt_img li",
             "attrName":"",
@@ -2429,7 +2429,7 @@
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
             "selector":"div.paly_list_btn a",
@@ -2453,7 +2453,7 @@
          "player":"ijk"
       },
       "search":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "pagerule":"https://www.subaibai.com/page/#mpageno?s=#msearchword",
          "pageone":"",
@@ -6992,7 +6992,7 @@
       "description":"www.duboku.tv",
       "localImageResource":"",
       "presenter":"Movie",
-      "inword":"m3.xboku.com,.m3u8,.mp4",
+      "inword":"m3.xboku.com,v.wedubo.com,.m3u8,.mp4",
       "uninword":"",
       "next":"detail",
       "thumb":"https://tlgur.com/d/81eeDwo8",
@@ -7061,7 +7061,7 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"browser",
-		 "onclick":"yes",
+		 "onclick":"no",
          "clickcontainer":{
             "selector":"button.vjs-big-play-button",
             "attrName":"",
