@@ -124,6 +124,10 @@
       "thumb":"https://tlgur.com/d/G7oBklDG",
       "category":[
 	     {
+            "name":"电影",
+            "link":"https://www.subaibai.com/new-movie"
+         },
+		 {
             "name":"国产剧",
             "link":"https://www.subaibai.com/movie_bt_series/guochanju"
          },
@@ -135,9 +139,9 @@
             "name":"欧美剧",
             "link":"https://www.subaibai.com/movie_bt_series/oumeiju"
          },
-        {
-            "name":"全部",
-            "link":"https://www.subaibai.com/movie_bt"
+		 {
+            "name":"动漫剧",
+            "link":"https://www.subaibai.com/movie_bt_series/dongmanju"
          },
          {
             "name":"动漫电影",
@@ -203,7 +207,7 @@
          },
          "thumb":{
             "selector":"img.thumb",
-            "attrName":"src",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
