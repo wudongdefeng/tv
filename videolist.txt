@@ -7128,15 +7128,27 @@
       "description":"低端影视",
       "localImageResource":"",
       "presenter":"Movie",
-      "openBrowser":"yes",
+      "openBrowser":"no",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
       "thumb":"",
       "category":[
+        {
+            "name":"电影",
+            "link":"https://ddrk.me/category/movie/"
+         },
+         {
+            "name":"韩剧",
+            "link":"https://ddrk.me/category/drama/kr-drama/"
+         },
          {
             "name":"欧美剧",
             "link":"https://ddrk.me/category/drama/western-drama/"
+         },
+         {
+            "name":"日剧",
+            "link":"https://ddrk.me/category/drama/jp-drama/"
          }
       ],
       "list":{
@@ -7169,7 +7181,7 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"browser",
-         "onclick":"yes",
+         "onclick":"no",
          "clickcontainer":{
             "selector":"a.multilink-btn",
             "attrName":"",
@@ -7183,7 +7195,7 @@
          "title":{
             "selector":"",
             "attrName":"text",
-            "filter":"(.*)\\."
+            "filter":"t(.*)\\."
          },
          "link":{
             "selector":"",
@@ -7192,8 +7204,9 @@
          }
       },
       "play":{
-         "useragent":"mobile",
-         "filter":"",
+         "useragent":"default",
+         "type":"html",
+         "filter": "\\\"src0\\\":\\\"(.*)\\\",\\\"src1\\\":",
          "player":"vlc"
       },
       "search":{
