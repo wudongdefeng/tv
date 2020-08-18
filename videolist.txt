@@ -194,7 +194,7 @@
 		 {
             "name":"全部",
             "link":"https://www.subaibai.com/movie_bt"
-         },
+         }
       ],
       "list":{
          "pagefilter":"",
