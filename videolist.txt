@@ -7089,7 +7089,8 @@
       },
       "play":{
          "useragent":"default",
-         "filter":"",
+         "type":"html",
+	 "filter": "\\\"url\\\":\\\"(.*)\\\",\\\"url_next\\\":",
          "player":"exo2"
       },
       "search":{
