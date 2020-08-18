@@ -7117,7 +7117,7 @@
       "description":"低端影视",
       "localImageResource":"",
       "presenter":"Movie",
-      "openBrowser":"no",
+      "openBrowser":"yes",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
