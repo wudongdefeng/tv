@@ -6996,7 +6996,7 @@
       "description":"www.duboku.tv",
       "localImageResource":"",
       "presenter":"Movie",
-      "inword":"m3.xboku.com,v.wedubo.com,.m3u8,.mp4",
+      "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
       "thumb":"https://tlgur.com/d/81eeDwo8",
