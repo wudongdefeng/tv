@@ -1677,23 +1677,23 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://www.138vcd.com/vodshow/id/20"
+            "link":"https://www.138vcd.com/index.php/vod/show/id/21"
          },
          {
             "name":"连续剧",
-            "link":"https://www.138vcd.com/vodshow/id/21"
+            "link":"https://www.138vcd.com/index.php/vod/show/id/21"
          },
          {
             "name":"综艺",
-            "link":"https://www.138vcd.com/vodshow/id/22"
+            "link":"https://www.138vcd.com/index.php/vod/show/id/22"
          },
          {
             "name":"动漫",
-            "link":"https://www.138vcd.com/vodshow/id/23"
+            "link":"https://www.138vcd.com/index.php/vod/show/id/23"
          },
          {
             "name":"纪录片",
-            "link":"https://www.138vcd.com/vodshow/id/24"
+            "link":"https://www.138vcd.com/index.php/vod/show/id/24"
          }
       ],
       "list":{
@@ -2579,116 +2579,6 @@
       }
    },
    {
-      "name":"138vcd",
-      "title":"喜欢看影视",
-      "link":"https://www.138vcd.com",
-      "description":"喜欢看影视",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMMNVEg",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.138vcd.com/vodshow/id/20"
-         },
-         {
-            "name":"美剧",
-            "link":"https://www.138vcd.com/vodshow/id/35"
-         },
-         {
-            "name":"韩剧",
-            "link":"https://www.138vcd.com/vodshow/id/42"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.138vcd.com/vodshow/id/32"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "pageone":".html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-content__list li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.138vcd.com/vodsearch/page/#mpageno/wd/#msearchword.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"20mao",
       "title":"天龙影院",
       "link":"http://m.20mao.com",
@@ -2899,160 +2789,6 @@
          },
          "link":{
             "selector":"p.image a",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"Hanjuwang",
-      "title":"韩剧网",
-      "link":"http://www.hanju.cc",
-      "description":"韩剧网",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMMpDeg",
-      "category":[
-         {
-            "name":"2020年",
-            "link":"http://www.hanju.cc/hanju/list_159"
-         },
-         {
-            "name":"2019年",
-            "link":"http://www.hanju.cc/hanju/list_156"
-         },
-         {
-            "name":"2018年",
-            "link":"http://www.hanju.cc/hanju/list_152"
-         },
-         {
-            "name":"2017年",
-            "link":"http://www.hanju.cc/hanju/list_148"
-         },
-         {
-            "name":"2016年",
-            "link":"http://www.hanju.cc/hanju/list_144"
-         },
-         {
-            "name":"2015年",
-            "link":"http://www.hanju.cc/hanju/list_140"
-         },
-         {
-            "name":"2014年",
-            "link":"http://www.hanju.cc/hanju/list_136"
-         },
-         {
-            "name":"2013年",
-            "link":"http://www.hanju.cc/hanju/list_128"
-         },
-         {
-            "name":"2012年",
-            "link":"http://www.hanju.cc/hanju/list_125"
-         },
-         {
-            "name":"2011年",
-            "link":"http://www.hanju.cc/hanju/list_122"
-         },
-         {
-            "name":"2010年及更早",
-            "link":"http://www.hanju.cc/hanju/list_121"
-         },
-         {
-            "name":"国语版",
-            "link":"http://www.hanju.cc/hanju/list_58"
-         },
-         {
-            "name":"韩国电影",
-            "link":"http://www.hanju.cc/hanju/list_75"
-         },
-         {
-            "name":"综艺节目",
-            "link":"http://www.hanju.cc/hanju/list_77"
-         },
-         {
-            "name":"其他",
-            "link":"http://www.hanju.cc/hanju/list_74"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"_#page.html",
-         "pageone":"_1.html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"li[style]",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img",
-            "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.abc a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"http://www.hanju.cc/plus/search.php?keyword=#msearchword&searchtype=titlekeyword&channeltype=4&orderby=&kwtype=0&pagesize=10&typeid=0&TotalResult=24&PageNo=#mpageno",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"div.item a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
             "attrName":"href",
             "filter":""
          }
@@ -7256,7 +6992,7 @@
       "description":"www.duboku.tv",
       "localImageResource":"",
       "presenter":"Movie",
-      "inword":".m3u8,.mp4",
+      "inword":"m3.xboku.com,.m3u8,.mp4",
       "uninword":"",
       "next":"detail",
       "thumb":"https://tlgur.com/d/81eeDwo8",
