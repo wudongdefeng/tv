@@ -7183,7 +7183,7 @@
          "title":{
             "selector":"",
             "attrName":"text",
-            "filter":"\s*(\d+)"
+            "filter":""
          },
          "link":{
             "selector":"",
