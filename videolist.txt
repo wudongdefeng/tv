@@ -7135,7 +7135,7 @@
       "thumb":"",
       "category":[
          {
-            "name":"电影",
+            "name":"欧美剧",
             "link":"https://ddrk.me/category/drama/western-drama/"
          }
       ],
@@ -7168,7 +7168,7 @@
       },
       "detail":{
          "useragent":"mobile",
-         "fetchtype":"default",
+         "fetchtype":"browser",
          "onclick":"yes",
          "clickcontainer":{
             "selector":"a.multilink-btn",
