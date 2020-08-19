@@ -7181,9 +7181,9 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"browser",
-         "onclick":"no",
+         "onclick":"yes",
          "clickcontainer":{
-            "selector":"a.multilink-btn",
+            "selector":"a.wp-playlist-caption",
             "attrName":"",
             "filter":""
          },
