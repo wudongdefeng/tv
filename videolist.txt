@@ -306,7 +306,7 @@
          "pagesize":8,
          "useragent":"mobile",
          "videoscontainer":{
-            "selector":"ul.myui-content__list a",
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -330,7 +330,7 @@
          "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"a.btn",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
