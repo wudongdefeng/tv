@@ -304,7 +304,7 @@
          "pageone":"-1.html",
          "fetchtype":"default",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
             "selector":"a.myui-vodlist__thumb",
             "attrName":"",
@@ -327,7 +327,7 @@
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
             "selector":"div.tab-content a",
@@ -351,7 +351,7 @@
          "player":"ijk"
       },
       "search":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "pagerule":"https://k1080.net/index.php/vodsearch/#msearchword----------#mpageno---.html",
          "pageone":"",
