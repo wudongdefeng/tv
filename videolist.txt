@@ -306,7 +306,7 @@
          "pagesize":8,
          "useragent":"mobile",
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
