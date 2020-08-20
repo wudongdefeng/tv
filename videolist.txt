@@ -330,7 +330,7 @@
          "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.tab-content a",
+            "selector":"a.btn",
             "attrName":"",
             "filter":""
          },
