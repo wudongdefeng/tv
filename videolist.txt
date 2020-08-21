@@ -1139,7 +1139,7 @@
             "filter":""
          },
          "videoscontainer":{
-            "selector":"a.btn,
+            "selector":"a.btn",
             "attrName":"",
             "filter":""
          },
