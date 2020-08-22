@@ -1072,13 +1072,13 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"jx.php,player.php",
+      "uninword":"id1=,id2=",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/g6Yn2vzG",
+      "thumb":"https://tlgur.com/d/GLrzDYX4",
       "category":[
          {
             "name":"全部",
-            "link":"http://www.88kanqiu.com/"
+            "link":"http://www.88kanqiu.com/spt/cate/0"
          },
          {
             "name":"NBA",
@@ -1156,7 +1156,7 @@
       },
       "play":{
          "useragent":"mobile",
-         "filter":"url=(.*)",
+         "filter":"id=(.*)",
          "player":"ijk"
       },
       "search":{
