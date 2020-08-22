@@ -2864,7 +2864,7 @@
          "link":{
             "selector":"",
             "attrName":"href",
-            "filter":"\\/\\/v\\.sigu\\.me\\/(.*)"
+            "filter":"\\/\\/(.*)"
          }
       },
       "play":{
