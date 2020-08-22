@@ -1109,7 +1109,7 @@
          "pagesize":8,
          "useragent":"mobile",
          "videoscontainer":{
-            "selector":"li.list-group-item a",
+            "selector":"div.row.d-none",
             "attrName":"",
             "filter":""
          },
@@ -1124,7 +1124,7 @@
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"span.btn",
             "attrName":"href",
             "filter":""
          }
