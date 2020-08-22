@@ -1132,12 +1132,6 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"default",
-       "onclick":"no",
-         "clickcontainer":{
-            "selector":"div.zbnav span",
-            "attrName":"",
-            "filter":""
-         },
          "videoscontainer":{
             "selector":"a.btn",
             "attrName":"",
