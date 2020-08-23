@@ -489,108 +489,6 @@
       }
    },
    {
-      "name":"dmdm2020",
-      "title":"哆咪动漫网",
-      "link":"http://www.dmdm2020.com",
-      "description":"哆咪动漫网",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMaK5Eg",
-      "category":[
-         {
-            "name":"国产动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/21"
-         },
-         {
-            "name":"日本动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/20"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "pageone":".html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-content__list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "pagerule":"http://www.dmdm2020.com/dongmansearch/wd/#msearchword/page/#mpageno.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"Novipnoad",
       "title":"NO视频",
       "link":"https://www.novipnoad.com",
@@ -604,11 +502,6 @@
       "thumb":"https://tlgur.com/d/G7ooRk6G",
       "category":[
          {
-            "name":"电影",
-            "link":"https://www.novipnoad.com/movie/",
-            "next":"play"
-         },
-         {
             "name":"韩剧",
             "link":"https://www.novipnoad.com/tv/korea/"
          },
@@ -619,6 +512,11 @@
          {
             "name":"日剧",
             "link":"https://www.novipnoad.com/tv/japan/"
+         },
+         {
+            "name":"电影",
+            "link":"https://www.novipnoad.com/movie/",
+            "next":"play"
          },
          {
             "name":"港剧",
@@ -956,6 +854,373 @@
       }
    },
    {
+      "name":"NFmovies",
+      "title":"奈菲影视",
+      "link":"https://www.nfmovies.com",
+      "description":"www.nfmovies.com",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "inword":".m3u8,.mp4",
+      "uninword":"/static/",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/4x772Pwg",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.nfmovies.com/list/?1"
+         },
+         {
+            "name":"欧美剧",
+            "link":"https://www.nfmovies.com/list/?15"
+         },
+         {
+            "name":"日韩剧",
+            "link":"https://www.nfmovies.com/list/?16"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.nfmovies.com/list/?13"
+         },
+         {
+            "name":"港台剧",
+            "link":"https://www.nfmovies.com/list/?14"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.nfmovies.com/list/?3"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.nfmovies.com/list/?4"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "pageone":".html",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"ul.myui-vodlist>li",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"a[target=_self]",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "pagerule":"https://www.nfmovies.com/search.php?page=#mpageno&searchword=#msearchword&searchtype=",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"Duboku",
+      "title":"独播库",
+      "link":"https://www.duboku.co",
+      "description":"www.duboku.tv",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/81eeDwo8",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.duboku.co/vodtype/1"
+         },
+       {
+            "name":"电视剧更新",
+            "link":"https://www.duboku.co/vodtype/2"
+         },
+         {
+            "name":"英美剧",
+            "link":"https://www.duboku.co/vodtype/16"
+         },
+         {
+            "name":"日韩剧",
+            "link":"https://www.duboku.co/vodtype/15"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.duboku.co/vodtype/13"
+         },
+         {
+            "name":"港台泰剧",
+            "link":"https://www.duboku.co/vodtype/14"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.duboku.co/vodtype/3"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.duboku.co/vodtype/4"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "fetchtype":"default",
+         "pageone":".html",
+         "pagesize":8,
+         "useragent":"mobile",
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+       "onclick":"no",
+         "clickcontainer":{
+            "selector":"button.vjs-big-play-button",
+            "attrName":"",
+            "filter":""
+         },
+         "videoscontainer":{
+            "selector":"ul.myui-content__list li a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"default",
+         "type":"html",
+    "filter": "\\\"url\\\":\\\"(.*)\\\",\\\"url_next\\\":",
+         "player":"exo2"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.duboku.co/vodsearch/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"haitudy",
+      "title":"海兔影院",
+      "link":"http://www.haitudy.com",
+      "description":"海兔影院",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"?url=,dplayer/v3",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/4k7xVOn4",
+      "category":[
+         {
+            "name":"电影",
+            "link":"http://www.haitudy.com/dianying/"
+         },
+         {
+            "name":"电视剧",
+            "link":"http://www.haitudy.com/dianshiju/"
+         },
+         {
+            "name":"综艺",
+            "link":"http://www.haitudy.com/zongyi/"
+         },
+         {
+            "name":"动漫",
+            "link":"http://www.haitudy.com/dongman/"
+         },
+         {
+            "name":"记录片",
+            "link":"http://www.haitudy.com/jilupian/"
+         },
+         {
+            "name":"微电影",
+            "link":"http://www.haitudy.com/weidianying/"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"page/#page",
+         "pageone":"page/1",
+         "fetchtype":"browser",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"ul.new-list li.item",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"a.thumb",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img.lazy-load-img",
+            "attrName":"_src",
+            "filter":""
+         },
+         "link":{
+            "selector":"a.thumb",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.episodes-list a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"browser",
+         "pagerule":"http://www.haitudy.com/search/#msearchword/page/#mpageno",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"li.item",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"h5.subject a",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img.lazy-load-img",
+            "attrName":"_src",
+            "filter":""
+         },
+         "link":{
+            "selector":"h5.subject a",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
       "name":"heibaizhibo",
       "title":"黑白直播",
       "link":"https://m.heibaizhibo.com",
@@ -1280,126 +1545,6 @@
       }
    },
    {
-      "name":"電視直播",
-      "title":"iptv345",
-      "link":"http://m.iptv345.com",
-      "description":"網絡電視直播",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/8ekvrJWg",
-      "category":[
-         {
-            "name":"港澳台",
-            "link":"http://m.iptv345.com/?tid=gt&t=8"
-         },
-         {
-            "name":"體育台",
-            "link":"http://m.iptv345.com/?tid=ty"
-         },
-         {
-            "name":"央視台",
-            "link":"http://m.iptv345.com/?tid=ys"
-         },
-         {
-            "name":"衛視台",
-            "link":"http://m.iptv345.com/?tid=ws"
-         },
-         {
-            "name":"綜合",
-            "link":"http://m.iptv345.com/?tid=itv"
-         } ,
-         {
-            "name":"其他",
-            "link":"http://m.iptv345.com/?tid=other"
-         } ,
-         {
-            "name":"電影",
-            "link":"http://m.iptv345.com/?tid=movie"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"",
-         "fetchtype":"default",
-         "pageone":"",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"option",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"value",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"default",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.dolbytv.com/index.php/vodsearch/#msearchword----------#mpageno---/",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.vodlist_thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },{
       "name":"dolbytv",
       "title":"DolbyTv",
       "link":"https://www.dolbytv.com",
@@ -1503,124 +1648,6 @@
          },
          "link":{
             "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"haitudy",
-      "title":"海兔影院",
-      "link":"http://www.haitudy.com",
-      "description":"海兔影院",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"?url=,dplayer/v3",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/4k7xVOn4",
-      "category":[
-         {
-            "name":"电影",
-            "link":"http://www.haitudy.com/dianying/"
-         },
-         {
-            "name":"电视剧",
-            "link":"http://www.haitudy.com/dianshiju/"
-         },
-         {
-            "name":"综艺",
-            "link":"http://www.haitudy.com/zongyi/"
-         },
-         {
-            "name":"动漫",
-            "link":"http://www.haitudy.com/dongman/"
-         },
-         {
-            "name":"记录片",
-            "link":"http://www.haitudy.com/jilupian/"
-         },
-         {
-            "name":"微电影",
-            "link":"http://www.haitudy.com/weidianying/"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"page/#page",
-         "pageone":"page/1",
-         "fetchtype":"browser",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"ul.new-list li.item",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a.thumb",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.lazy-load-img",
-            "attrName":"_src",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.thumb",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.episodes-list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"browser",
-         "pagerule":"http://www.haitudy.com/search/#msearchword/page/#mpageno",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"li.item",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"h5.subject a",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.lazy-load-img",
-            "attrName":"_src",
-            "filter":""
-         },
-         "link":{
-            "selector":"h5.subject a",
             "attrName":"href",
             "filter":""
          }
@@ -4181,127 +4208,6 @@
       }
    },
    {
-      "name":"剧汇TV",
-      "title":"剧汇TV",
-      "link":"https://www.k365.tv",
-      "description":"www.k365.tv",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":"ipfs",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMMX7Pg",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.k365.tv/listpage/5dde53fca60dfd003645062f/%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1/"
-         },
-         {
-            "name":"热门电视剧",
-            "link":"https://www.k365.tv/listpage/5dcbc0691bf94d00294ddf2d/%E7%83%AD%E9%97%A8%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"国产电视剧",
-            "link":"https://www.k365.tv/listpage/5db7e23c1f1a7b0029a3cc4d/%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"欧美电视剧",
-            "link":"https://www.k365.tv/listpage/5d2e8a9deba3e50016617e2d/%E6%AC%A7%E7%BE%8E%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"韩国电视剧",
-            "link":"https://www.k365.tv/listpage/5dca80bf1bf94d00294dd865/%E9%9F%A9%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"日本电视剧",
-            "link":"https://www.k365.tv/listpage/5dd399c81bf94d00294de9ab/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"港台电视剧",
-            "link":"https://www.k365.tv/listpage/5dc28dbd1bf94d00294dcddc/%E5%8F%B0%E6%B8%AF%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"日本动漫",
-            "link":"https://www.k365.tv/listpage/5e578c2944b95d00296205e6/%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB/"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"#page.html",
-         "pageone":"1.html",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"div.itemContainer___1kwah",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img",
-            "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.canPlay___KjuPO",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "pagerule":"https://www.k365.tv/search/#msearchword/#mpageno/new/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"ul.lists___3_5Ll",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"li a",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img",
-            "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"li a",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"kpb",
       "title":"97看片吧",
       "link":"http://www.97kpb.com",
@@ -4550,123 +4456,6 @@
          "thumb":{
             "selector":"",
             "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"NFmovies",
-      "title":"奈菲影视",
-      "link":"https://www.nfmovies.com",
-      "description":"www.nfmovies.com",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"/static/",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/4x772Pwg",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.nfmovies.com/list/?1"
-         },
-         {
-            "name":"欧美剧",
-            "link":"https://www.nfmovies.com/list/?15"
-         },
-         {
-            "name":"日韩剧",
-            "link":"https://www.nfmovies.com/list/?16"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.nfmovies.com/list/?13"
-         },
-         {
-            "name":"港台剧",
-            "link":"https://www.nfmovies.com/list/?14"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.nfmovies.com/list/?3"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.nfmovies.com/list/?4"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":".html",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-vodlist>li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a[target=_self]",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "pagerule":"https://www.nfmovies.com/search.php?page=#mpageno&searchword=#msearchword&searchtype=",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
             "filter":""
          },
          "link":{
@@ -7308,55 +7097,146 @@
       }
    },
    {
-      "name":"Duboku",
-      "title":"独播库",
-      "link":"https://www.duboku.co",
-      "description":"www.duboku.tv",
+      "name":"NFSTAR",
+      "title":"奈飞星影视",
+      "link":"https://www.nfstar.net",
+      "description":"奈飞星影视",
       "localImageResource":"",
       "presenter":"Movie",
+      "openBrowser":"no",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/81eeDwo8",
+      "thumb":"https://tlgur.com/d/GZDD2bN4",
       "category":[
          {
             "name":"电影",
-            "link":"https://www.duboku.co/vodtype/1"
-         },
-		 {
-            "name":"电视剧更新",
-            "link":"https://www.duboku.co/vodtype/2"
+            "link":"https://www.nfstar.net/vodtype/20"
          },
          {
-            "name":"英美剧",
-            "link":"https://www.duboku.co/vodtype/16"
+            "name":"欧美剧",
+            "link":"https://www.nfstar.net/vodtype/21"
+         },
+         {
+            "name":"国语剧",
+            "link":"https://www.nfstar.net/vodtype/22"
          },
          {
             "name":"日韩剧",
-            "link":"https://www.duboku.co/vodtype/15"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.duboku.co/vodtype/13"
-         },
-         {
-            "name":"港台泰剧",
-            "link":"https://www.duboku.co/vodtype/14"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.duboku.co/vodtype/3"
+            "link":"https://www.nfstar.net/vodtype/23"
          },
          {
             "name":"动漫",
-            "link":"https://www.duboku.co/vodtype/4"
+            "link":"https://www.nfstar.net/vodtype/34"
          }
       ],
       "list":{
          "pagefilter":"",
          "pagerule":"-#page.html",
+         "pageone":"-1.html",
          "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.myui-content__list a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.nfstar.net/vodsearch/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"dmdm2020",
+      "title":"哆咪动漫网",
+      "link":"http://www.dmdm2020.com",
+      "description":"哆咪动漫网",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/GXMaK5Eg",
+      "category":[
+         {
+            "name":"国产动漫",
+            "link":"http://www.dmdm2020.com/dongmantype/21"
+         },
+         {
+            "name":"日本动漫",
+            "link":"http://www.dmdm2020.com/dongmantype/20"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"/page/#page.html",
          "pageone":".html",
+         "fetchtype":"default",
          "pagesize":8,
          "useragent":"mobile",
          "videoscontainer":{
@@ -7383,14 +7263,8 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"default",
-		 "onclick":"no",
-         "clickcontainer":{
-            "selector":"button.vjs-big-play-button",
-            "attrName":"",
-            "filter":""
-         },
          "videoscontainer":{
-            "selector":"ul.myui-content__list li a",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
@@ -7406,15 +7280,14 @@
          }
       },
       "play":{
-         "useragent":"default",
-         "type":"html",
-	 "filter": "\\\"url\\\":\\\"(.*)\\\",\\\"url_next\\\":",
-         "player":"exo2"
+         "useragent":"mobile",
+         "filter":"url=(.*)",
+         "player":"ijk"
       },
       "search":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
-         "pagerule":"https://www.duboku.co/vodsearch/#msearchword----------#mpageno---.html",
+         "pagerule":"http://www.dmdm2020.com/dongmansearch/wd/#msearchword/page/#mpageno.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
@@ -7439,7 +7312,7 @@
          }
       }
    },
-      {
+   {
       "name":"ddrk.me",
       "title":"低端影视",
       "link":"",
@@ -7556,48 +7429,106 @@
       }
    },
    {
-      "name":"NFSTAR",
-      "title":"奈飞星影视",
-      "link":"https://www.nfstar.net",
-      "description":"奈飞星影视",
+      "name":"電視直播",
+      "title":"iptv345",
+      "link":"http://m.iptv345.com",
+      "description":"網絡電視直播",
       "localImageResource":"",
       "presenter":"Movie",
-      "openBrowser":"no",
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/GZDD2bN4",
+      "thumb":"https://tlgur.com/d/8ekvrJWg",
       "category":[
          {
-            "name":"电影",
-            "link":"https://www.nfstar.net/vodtype/20"
+            "name":"港澳台",
+            "link":"http://m.iptv345.com/?tid=gt&t=8"
          },
          {
-            "name":"欧美剧",
-            "link":"https://www.nfstar.net/vodtype/21"
+            "name":"體育台",
+            "link":"http://m.iptv345.com/?tid=ty"
          },
          {
-            "name":"国语剧",
-            "link":"https://www.nfstar.net/vodtype/22"
+            "name":"央視台",
+            "link":"http://m.iptv345.com/?tid=ys"
          },
          {
-            "name":"日韩剧",
-            "link":"https://www.nfstar.net/vodtype/23"
+            "name":"衛視台",
+            "link":"http://m.iptv345.com/?tid=ws"
          },
          {
-            "name":"动漫",
-            "link":"https://www.nfstar.net/vodtype/34"
+            "name":"綜合",
+            "link":"http://m.iptv345.com/?tid=itv"
+         } ,
+         {
+            "name":"其他",
+            "link":"http://m.iptv345.com/?tid=other"
+         } ,
+         {
+            "name":"電影",
+            "link":"http://m.iptv345.com/?tid=movie"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":"-1.html",
+         "pagerule":"",
          "fetchtype":"default",
+         "pageone":"",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"li",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"a",
+            "attrName":"text",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"option",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"value",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"default",
+         "filter":"url=(.*)",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.dolbytv.com/index.php/vodsearch/#msearchword----------#mpageno---/",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.vodlist_thumb",
             "attrName":"",
             "filter":""
          },
@@ -7616,12 +7547,84 @@
             "attrName":"href",
             "filter":""
          }
+      }
+   },
+   {
+      "name":"剧汇TV",
+      "title":"剧汇TV",
+      "link":"https://www.k365.tv",
+      "description":"www.k365.tv",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "inword":"ipfs",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/GXMMX7Pg",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.k365.tv/listpage/5dde53fca60dfd003645062f/%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1/"
+         },
+         {
+            "name":"热门电视剧",
+            "link":"https://www.k365.tv/listpage/5dcbc0691bf94d00294ddf2d/%E7%83%AD%E9%97%A8%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"国产电视剧",
+            "link":"https://www.k365.tv/listpage/5db7e23c1f1a7b0029a3cc4d/%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"欧美电视剧",
+            "link":"https://www.k365.tv/listpage/5d2e8a9deba3e50016617e2d/%E6%AC%A7%E7%BE%8E%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"韩国电视剧",
+            "link":"https://www.k365.tv/listpage/5dca80bf1bf94d00294dd865/%E9%9F%A9%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"日本电视剧",
+            "link":"https://www.k365.tv/listpage/5dd399c81bf94d00294de9ab/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"港台电视剧",
+            "link":"https://www.k365.tv/listpage/5dc28dbd1bf94d00294dcddc/%E5%8F%B0%E6%B8%AF%E7%94%B5%E8%A7%86%E5%89%A7/"
+         },
+         {
+            "name":"日本动漫",
+            "link":"https://www.k365.tv/listpage/5e578c2944b95d00296205e6/%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB/"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"#page.html",
+         "pageone":"1.html",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"div.itemContainer___1kwah",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"img",
+            "attrName":"alt",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img",
+            "attrName":"src",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         }
       },
       "detail":{
          "useragent":"default",
-         "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.myui-content__list a",
+            "selector":"a.canPlay___KjuPO",
             "attrName":"",
             "filter":""
          },
@@ -7638,32 +7641,30 @@
       },
       "play":{
          "useragent":"mobile",
-         "filter":"",
          "player":"ijk"
       },
       "search":{
          "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.nfstar.net/vodsearch/#msearchword----------#mpageno---.html",
+         "pagerule":"https://www.k365.tv/search/#msearchword/#mpageno/new/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"ul.lists___3_5Ll",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
-            "attrName":"title",
+            "selector":"li a",
+            "attrName":"text",
             "filter":""
          },
          "thumb":{
-            "selector":"",
-            "attrName":"data-original",
+            "selector":"img",
+            "attrName":"src",
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"li a",
             "attrName":"href",
             "filter":""
          }
