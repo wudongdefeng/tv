@@ -2610,116 +2610,6 @@
       }
    },
    {
-      "name":"itsck",
-      "title":"sck电影网",
-      "link":"https://www.itsck.com",
-      "description":"sck电影网",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/8DmlkNRG",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.itsck.com/type/dianying"
-         },
-         {
-            "name":"连续剧",
-            "link":"https://www.itsck.com/type/lianxuju"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.itsck.com/type/zongyi"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.itsck.com/type/dongman"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":"-1.html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"li.fed-list-item",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a.fed-list-title",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a.fed-list-pics",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.fed-list-pics",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"div.fed-drop-boxs.fed-drop-btms ul.fed-part-rows a.fed-btns-info",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.itsck.com/search/#msearchword----------#mpageno---.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"dl.fed-deta-info",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"h1.fed-font-xvi",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a.fed-list-pics",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.fed-list-pics",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"abcoa",
       "title":"维赞影院",
       "link":"http://abcoa.cn",
@@ -3282,8 +3172,8 @@
    {
       "name":"dybee",
       "title":"电影蜜蜂",
-      "link":"https://www.dybee.tv",
-      "description":"www.dybee.tv",
+      "link":"https://www.idybee.com",
+      "description":"www.idybee.com",
       "localImageResource":"",
       "presenter":"Movie",
       "openBrowser":"no",
@@ -3293,28 +3183,36 @@
       "thumb":"https://tlgur.com/d/gpzzaa18",
       "category":[
          {
+            "name":"电影",
+            "link":"https://www.idybee.com/movie"
+         },
+         {
+            "name":"电视剧",
+            "link":"https://www.idybee.com/tv"
+         },
+         {
             "name":"欧美电影",
-            "link":"https://www.dybee.tv/movie/oumei"
+            "link":"https://www.idybee.com/movie/oumei"
          },
          {
             "name":"日韩电影",
-            "link":"https://www.dybee.tv/movie/rihan"
+            "link":"https://www.idybee.com/movie/rihan"
          },
          {
             "name":"国产电影",
-            "link":"https://www.dybee.tv/movie/guochan"
+            "link":"https://www.idybee.com/movie/guochan"
          },
          {
             "name":"欧美电视剧",
-            "link":"https://www.dybee.tv/tv/oumeitv"
+            "link":"https://www.idybee.com/tv/oumeitv"
          },
          {
             "name":"日韩电视剧",
-            "link":"https://www.dybee.tv/tv/rihantv"
+            "link":"https://www.idybee.com/tv/rihantv"
          },
          {
             "name":"国产电视剧",
-            "link":"https://www.dybee.tv/tv/guochantv"
+            "link":"https://www.idybee.com/tv/guochantv"
          }
       ],
       "list":{
@@ -3372,7 +3270,7 @@
       "search":{
          "useragent":"default",
          "fetchtype":"default",
-         "pagerule":"https://www.dybee.tv/page/#mpageno?post_type=post&s=#msearchword",
+         "pagerule":"https://www.idybee.com/page/#mpageno?post_type=post&s=#msearchword",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
@@ -3614,119 +3512,6 @@
       }
    },
    {
-      "name":"epang",
-      "title":"阿房影视",
-      "link":"https://epang.ml",
-      "description":"epang.ml",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GZDDxn64",
-      "category":[
-         {
-            "name":"欧美剧",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/en"
-         },
-         {
-            "name":"日韩剧",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/kr"
-         },
-         {
-            "name":"电影",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/movie"
-         },
-         {
-            "name":"动画片",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/donghua"
-         },
-         {
-            "name":"纪录片",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/jlp"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page",
-         "fetchtype":"default",
-         "pageone":"/",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"div.bt_img li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img.thumb",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.thumb",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"h3.dytit a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"div.paly_list_btn a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"default",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"browser",
-         "pagerule":"https://epang.ml/page/#mpageno?s=#msearchword",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"div.bt_img li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img.thumb",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.thumb",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"kpkuang",
       "title":"看片狂人",
       "link":"https://www.kpkuang.com",
@@ -3926,7 +3711,7 @@
       },
       "play":{
          "useragent":"mobile",
-         "filter":"",
+         "filter":"url=(.*)",
          "player":"ijk"
       },
       "search":{
@@ -4079,7 +3864,7 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://dvdhd.me/list/index1"
+            "link":"https://dvdhd.me/list/index6"
          },
          {
             "name":"电视剧更新",
@@ -4132,12 +3917,12 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"_#page.html",
+         "pagerule":"-#page.html",
          "pageone":".html",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
-            "selector":"article.u-movie a",
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -4147,7 +3932,7 @@
             "filter":""
          },
          "thumb":{
-            "selector":"img",
+            "selector":"",
             "attrName":"data-original",
             "filter":""
          },
@@ -4158,7 +3943,7 @@
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
             "selector":"a[target=_self]",
             "attrName":"",
@@ -4181,12 +3966,12 @@
          "player":"ijk"
       },
       "search":{
-         "useragent":"default",
+         "useragent":"mobile",
          "pagerule":"https://dvdhd.me/search.php?page=#mpageno&searchword=#msearchword&searchtype=",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"article.u-movie a",
+            "selector":"a.v-thumb.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -7665,6 +7450,119 @@
          },
          "link":{
             "selector":"li a",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"epang",
+      "title":"阿房影视",
+      "link":"https://epang.ml",
+      "description":"epang.ml",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/GZDDxn64",
+      "category":[
+         {
+            "name":"欧美剧",
+            "link":"https://epang.ml/movie_bt/movie_bt_series/en"
+         },
+         {
+            "name":"日韩剧",
+            "link":"https://epang.ml/movie_bt/movie_bt_series/kr"
+         },
+         {
+            "name":"电影",
+            "link":"https://epang.ml/movie_bt/movie_bt_series/movie"
+         },
+         {
+            "name":"动画片",
+            "link":"https://epang.ml/movie_bt/movie_bt_series/donghua"
+         },
+         {
+            "name":"纪录片",
+            "link":"https://epang.ml/movie_bt/movie_bt_series/jlp"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"/page/#page",
+         "fetchtype":"default",
+         "pageone":"/",
+         "pagesize":8,
+         "useragent":"mobile",
+         "videoscontainer":{
+            "selector":"div.bt_img li",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"img.thumb",
+            "attrName":"alt",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img.thumb",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"h3.dytit a",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"div.paly_list_btn a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"mobile",
+         "fetchtype":"browser",
+         "pagerule":"https://epang.ml/page/#mpageno?s=#msearchword",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"div.bt_img li",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"img.thumb",
+            "attrName":"alt",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img.thumb",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
             "attrName":"href",
             "filter":""
          }
