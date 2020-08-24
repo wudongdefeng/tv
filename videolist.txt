@@ -69,7 +69,7 @@
             "name":"连续剧",
             "link":"https://www.7xiady.cc/type/lianxuju"
          }
-		 ,
+       ,
          {
             "name":"动漫",
             "link":"https://www.7xiady.cc/type/dongman"
@@ -172,11 +172,11 @@
       "next":"detail",
       "thumb":"https://tlgur.com/d/G7oBklDG",
       "category":[
-	     {
+        {
             "name":"电影",
             "link":"https://www.subaibai.com/new-movie"
          },
-		 {
+       {
             "name":"国产剧",
             "link":"https://www.subaibai.com/movie_bt_series/guochanju"
          },
@@ -188,7 +188,7 @@
             "name":"欧美剧",
             "link":"https://www.subaibai.com/movie_bt_series/oumeiju"
          },
-		 {
+       {
             "name":"动漫剧",
             "link":"https://www.subaibai.com/movie_bt_series/dongmanju"
          },
@@ -701,7 +701,7 @@
             "name":"电影",
             "link":"http://9ekk.com/vodshow/zuijinrebodianying/page/"
          }
-		 ,
+       ,
          {
             "name":"电视剧",
             "link":"http://9ekk.com/vodshow/zuijinrebodianshiju/page/"
@@ -812,7 +812,7 @@
             "name":"电视剧",
             "link":"http://8hyy.cc/frim/2"
          }
-		 ,
+       ,
          {
             "name":"综艺",
             "link":"http://8hyy.cc/frim/3"
@@ -1322,7 +1322,7 @@
       "detail":{
          "useragent":"mobile",
          "fetchtype":"browser",
-		 "onclick":"yes",
+       "onclick":"yes",
          "clickcontainer":{
             "selector":"div.zbnav span",
             "attrName":"",
@@ -5467,7 +5467,7 @@
          "useragent":"default",
          "fetchtype":"browser",
          "videoscontainer":{
-            "selector":"div.sBox a",
+            "selector":"ul.player.ckp a",
             "attrName":"",
             "filter":""
          },
@@ -7045,98 +7045,98 @@
       }
    },
 {
-		"name": "Mantouys",
-		"title": "馒头影视",
-		"link": "http://www.mantouys.com",
-		"description": "馒头影视",
-		"localImageResource": "",
-		"presenter": "Movie",
-		"openBrowser": "no",
-		"inword": ".m3u8,.mp4",
-		"uninword": "?url=,dplayer/v3",
-		"next": "detail",
-		"thumb": "http://www.mantouys.com/tpl/img/logo.png",
-		"category": [{"name": "电影", "link": "http://www.mantouys.com/dianying"}, {"name": "剧情", "link": "http://www.mantouys.com/dianying/juqing"}, {"name": "爱情", "link": "http://www.mantouys.com/dianying/aiqing"}, {"name": "喜剧", "link": "http://www.mantouys.com/dianying/xiju"}, {"name": "动作", "link": "http://www.mantouys.com/dianying/dongzuo"}, {"name": "科幻", "link": "http://www.mantouys.com/dianying/kehuan"}, {"name": "灾难", "link": "http://www.mantouys.com/dianying/zainan"}, {"name": "战争", "link": "http://www.mantouys.com/dianying/zhanzheng"}, {"name": "恐怖", "link": "http://www.mantouys.com/dianying/kongbu"}, {"name": "悬疑", "link": "http://www.mantouys.com/dianying/xuanyi"}, {"name": "惊悚", "link": "http://www.mantouys.com/dianying/jingsong"}, {"name": "犯罪", "link": "http://www.mantouys.com/dianying/fanzui"}, {"name": "冒险", "link": "http://www.mantouys.com/dianying/maoxian"}, {"name": "奇幻", "link": "http://www.mantouys.com/dianying/qihuan"}, {"name": "动画", "link": "http://www.mantouys.com/dianying/donghua"}, {"name": "电视剧", "link": "http://www.mantouys.com/dianshiju"}, {"name": "大陆剧", "link": "http://www.mantouys.com/dianshiju/dalu"}, {"name": "港台剧", "link": "http://www.mantouys.com/dianshiju/gangtai"}, {"name": "日韩剧", "link": "http://www.mantouys.com/dianshiju/rihan"}, {"name": "欧美剧", "link": "http://www.mantouys.com/dianshiju/meiju"}, {"name": "泰国剧", "link": "http://www.mantouys.com/dianshiju/taiju"}, {"name": "海外剧", "link": "http://www.mantouys.com/dianshiju/haiwai"}, {"name": "综艺", "link": "http://www.mantouys.com/zongyi"}, {"name": "大陆综艺", "link": "http://www.mantouys.com/zongyi/dalu"}, {"name": "港台综艺", "link": "http://www.mantouys.com/zongyi/gangtai"}, {"name": "日韩综艺", "link": "http://www.mantouys.com/zongyi/rihan"}, {"name": "欧美综艺", "link": "http://www.mantouys.com/zongyi/oumei"}, {"name": "海外综艺", "link": "http://www.mantouys.com/zongyi/qita"}, {"name": "动漫", "link": "http://www.mantouys.com/dongman"}, {"name": "日漫", "link": "http://www.mantouys.com/dongman/riman"}, {"name": "国漫", "link": "http://www.mantouys.com/dongman/guoman"}, {"name": "美漫", "link": "http://www.mantouys.com/dongman/meiman"}, {"name": "其他", "link": "http://www.mantouys.com/dongman/qita"}, {"name": "纪录片", "link": "http://www.mantouys.com/jilupian"}, {"name": "中国纪录片", "link": "http://www.mantouys.com/jilupian/huaxia"}, {"name": "BBC纪录片", "link": "http://www.mantouys.com/jilupian/bbc"}, {"name": "人文自然", "link": "http://www.mantouys.com/jilupian/renwenziran"}, {"name": "微电影", "link": "http://www.mantouys.com/duanpian"}, {"name": "网大", "link": "http://www.mantouys.com/duanpian/wangda"}, {"name": "短片", "link": "http://www.mantouys.com/duanpian/duanpian"}, {"name": "音乐MV", "link": "http://www.mantouys.com/duanpian/yinyue"}, {"name": "预告片", "link": "http://www.mantouys.com/duanpian/yugaopian"}],
-		"list": {
-			"pagefilter": "",
-			"pagerule": "/page/#page",
-			"pageone": "/page/1",
-			"fetchtype": "default",
-			"pagesize": 8,
-			"useragent": "default",
-			"videoscontainer": {
-				"selector": "a.movie-img",
-				"attrName": "",
-				"filter": ""
-			},
-			"title": {
-				"selector": "",
-				"attrName": "title",
-				"filter": ""
-			},
-			"thumb": {
-				"selector": "img",
-				"attrName": "_src",
-				"filter": ""
-			},
-			"link": {
-				"selector": "",
-				"attrName": "href",
-				"filter": ""
-			}
-		},
-		"detail": {
-			"useragent": "default",
-			"fetchtype": "default",
-			"videoscontainer": {
-				"selector": "a.play-btn",
-				"attrName": "",
-				"filter": ""
-			},
-			"title": {
-				"selector": "",
-				"attrName": "text",
-				"filter": ""
-			},
-			"link": {
-				"selector": "",
-				"attrName": "href",
-				"filter": ""
-			}
-		},
-		"play": {
-			"useragent": "mobile",
-			"filter": "",
-			"player": "ijk"
-		},
-		"search": {
-			"useragent": "default",
-			"fetchtype": "browser",
-			"pagerule": "",
-			"pageone": "",
-			"pagesize": 8,
-			"videoscontainer": {
-				"selector": "li.item",
-				"attrName": "",
-				"filter": ""
-			},
-			"title": {
-				"selector": "h5.subject a",
-				"attrName": "title",
-				"filter": ""
-			},
-			"thumb": {
-				"selector": "img.lazy-load-img",
-				"attrName": "_src",
-				"filter": ""
-			},
-			"link": {
-				"selector": "h5.subject a",
-				"attrName": "href",
-				"filter": ""
-			}
-		}
-	},{
+      "name": "Mantouys",
+      "title": "馒头影视",
+      "link": "http://www.mantouys.com",
+      "description": "馒头影视",
+      "localImageResource": "",
+      "presenter": "Movie",
+      "openBrowser": "no",
+      "inword": ".m3u8,.mp4",
+      "uninword": "?url=,dplayer/v3",
+      "next": "detail",
+      "thumb": "http://www.mantouys.com/tpl/img/logo.png",
+      "category": [{"name": "电影", "link": "http://www.mantouys.com/dianying"}, {"name": "剧情", "link": "http://www.mantouys.com/dianying/juqing"}, {"name": "爱情", "link": "http://www.mantouys.com/dianying/aiqing"}, {"name": "喜剧", "link": "http://www.mantouys.com/dianying/xiju"}, {"name": "动作", "link": "http://www.mantouys.com/dianying/dongzuo"}, {"name": "科幻", "link": "http://www.mantouys.com/dianying/kehuan"}, {"name": "灾难", "link": "http://www.mantouys.com/dianying/zainan"}, {"name": "战争", "link": "http://www.mantouys.com/dianying/zhanzheng"}, {"name": "恐怖", "link": "http://www.mantouys.com/dianying/kongbu"}, {"name": "悬疑", "link": "http://www.mantouys.com/dianying/xuanyi"}, {"name": "惊悚", "link": "http://www.mantouys.com/dianying/jingsong"}, {"name": "犯罪", "link": "http://www.mantouys.com/dianying/fanzui"}, {"name": "冒险", "link": "http://www.mantouys.com/dianying/maoxian"}, {"name": "奇幻", "link": "http://www.mantouys.com/dianying/qihuan"}, {"name": "动画", "link": "http://www.mantouys.com/dianying/donghua"}, {"name": "电视剧", "link": "http://www.mantouys.com/dianshiju"}, {"name": "大陆剧", "link": "http://www.mantouys.com/dianshiju/dalu"}, {"name": "港台剧", "link": "http://www.mantouys.com/dianshiju/gangtai"}, {"name": "日韩剧", "link": "http://www.mantouys.com/dianshiju/rihan"}, {"name": "欧美剧", "link": "http://www.mantouys.com/dianshiju/meiju"}, {"name": "泰国剧", "link": "http://www.mantouys.com/dianshiju/taiju"}, {"name": "海外剧", "link": "http://www.mantouys.com/dianshiju/haiwai"}, {"name": "综艺", "link": "http://www.mantouys.com/zongyi"}, {"name": "大陆综艺", "link": "http://www.mantouys.com/zongyi/dalu"}, {"name": "港台综艺", "link": "http://www.mantouys.com/zongyi/gangtai"}, {"name": "日韩综艺", "link": "http://www.mantouys.com/zongyi/rihan"}, {"name": "欧美综艺", "link": "http://www.mantouys.com/zongyi/oumei"}, {"name": "海外综艺", "link": "http://www.mantouys.com/zongyi/qita"}, {"name": "动漫", "link": "http://www.mantouys.com/dongman"}, {"name": "日漫", "link": "http://www.mantouys.com/dongman/riman"}, {"name": "国漫", "link": "http://www.mantouys.com/dongman/guoman"}, {"name": "美漫", "link": "http://www.mantouys.com/dongman/meiman"}, {"name": "其他", "link": "http://www.mantouys.com/dongman/qita"}, {"name": "纪录片", "link": "http://www.mantouys.com/jilupian"}, {"name": "中国纪录片", "link": "http://www.mantouys.com/jilupian/huaxia"}, {"name": "BBC纪录片", "link": "http://www.mantouys.com/jilupian/bbc"}, {"name": "人文自然", "link": "http://www.mantouys.com/jilupian/renwenziran"}, {"name": "微电影", "link": "http://www.mantouys.com/duanpian"}, {"name": "网大", "link": "http://www.mantouys.com/duanpian/wangda"}, {"name": "短片", "link": "http://www.mantouys.com/duanpian/duanpian"}, {"name": "音乐MV", "link": "http://www.mantouys.com/duanpian/yinyue"}, {"name": "预告片", "link": "http://www.mantouys.com/duanpian/yugaopian"}],
+      "list": {
+         "pagefilter": "",
+         "pagerule": "/page/#page",
+         "pageone": "/page/1",
+         "fetchtype": "default",
+         "pagesize": 8,
+         "useragent": "default",
+         "videoscontainer": {
+            "selector": "a.movie-img",
+            "attrName": "",
+            "filter": ""
+         },
+         "title": {
+            "selector": "",
+            "attrName": "title",
+            "filter": ""
+         },
+         "thumb": {
+            "selector": "img",
+            "attrName": "_src",
+            "filter": ""
+         },
+         "link": {
+            "selector": "",
+            "attrName": "href",
+            "filter": ""
+         }
+      },
+      "detail": {
+         "useragent": "default",
+         "fetchtype": "default",
+         "videoscontainer": {
+            "selector": "a.play-btn",
+            "attrName": "",
+            "filter": ""
+         },
+         "title": {
+            "selector": "",
+            "attrName": "text",
+            "filter": ""
+         },
+         "link": {
+            "selector": "",
+            "attrName": "href",
+            "filter": ""
+         }
+      },
+      "play": {
+         "useragent": "mobile",
+         "filter": "",
+         "player": "ijk"
+      },
+      "search": {
+         "useragent": "default",
+         "fetchtype": "browser",
+         "pagerule": "",
+         "pageone": "",
+         "pagesize": 8,
+         "videoscontainer": {
+            "selector": "li.item",
+            "attrName": "",
+            "filter": ""
+         },
+         "title": {
+            "selector": "h5.subject a",
+            "attrName": "title",
+            "filter": ""
+         },
+         "thumb": {
+            "selector": "img.lazy-load-img",
+            "attrName": "_src",
+            "filter": ""
+         },
+         "link": {
+            "selector": "h5.subject a",
+            "attrName": "href",
+            "filter": ""
+         }
+      }
+   },{
     "name": "bdzy",
     "title": "百度云资源",
     "link": "http://bdzy.com",
