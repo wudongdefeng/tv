@@ -1183,33 +1183,33 @@
          "fetchtype":"default",
          "pageone":"1.html",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
-            "selector":"div.li-img",
+            "selector":"ul.pic-list a",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"a",
+            "selector":"",
             "attrName":"title",
             "filter":""
          },
          "thumb":{
             "selector":"img",
-            "attrName":"src",
+            "attrName":"data-funlazy",
             "filter":""
          },
          "link":{
-            "selector":"a",
+            "selector":"",
             "attrName":"href",
             "filter":""
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"browser",
          "videoscontainer":{
-            "selector":"div.sBox a",
+            "selector":"ul.player li a",
             "attrName":"",
             "filter":""
          },
