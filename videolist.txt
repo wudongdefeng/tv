@@ -1209,7 +1209,7 @@
          "useragent":"default",
          "fetchtype":"browser",
          "videoscontainer":{
-            "selector":"ul.player.ckp a",
+            "selector":"div.sBox a",
             "attrName":"",
             "filter":""
          },
