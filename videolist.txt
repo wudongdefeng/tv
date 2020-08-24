@@ -1,11 +1,11 @@
 [
    {
-    "name": "iptv807.",
-    "title": "iptv807.",
+    "name": "iptv807",
+    "title": "iptv807",
     "link": "http://iptv807.com/",
     "description": "iptv807",
     "localImageResource": "",
-    "presenter": "Text",
+    "presenter": "Movie",
     "openBrowser": "no",
     "inword":".m3u8,.mp4",
     "uninword":"?url=,dplayer/v3",
