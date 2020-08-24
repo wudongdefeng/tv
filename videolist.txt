@@ -10,7 +10,7 @@
     "inword":".m3u8,.mp4",
     "uninword":"?url=,dplayer/v3",
     "next":"play",
-    "thumb":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=363561225,4082822823&fm=26&gp=0.jpg",
+    "thumb":"https://tlgur.com/d/8ekvrJWg",
     "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
     "list": {
       "pagefilter":"",
