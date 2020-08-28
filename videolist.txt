@@ -1,54 +1,5 @@
 [
    {
-    "name": "iptv807",
-    "title": "iptv807",
-    "link": "http://iptv807.com/",
-    "description": "iptv807",
-    "localImageResource": "",
-    "presenter": "Movie",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4",
-    "uninword":"?url=,dplayer/v3",
-    "next":"play",
-    "thumb":"https://tlgur.com/d/8ekvrJWg",
-    "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '其他', 'link': 'http://iptv807.com/?tid=other'},{'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "page/#page",
-      "pageone": "",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "mobile",
-      "videoscontainer":{"selector":"ul a","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "thumb":{"selector":"","attrName":"_src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "mobile",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"browser",
-      "pagerule": "",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
-      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
-      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
-    }
-  },
-   {
       "name":"7xiady",
       "title":"奇侠高清",
       "link":"https://www.7xiady.cc",
@@ -463,7 +414,7 @@
          "pageone":"?page=1",
          "fetchtype":"default",
          "pagesize":8,
-         "useragent":"default",
+         "useragent":"mobile",
          "videoscontainer":{
             "selector":"a.stui-vodlist__thumb",
             "attrName":"",
@@ -486,10 +437,10 @@
          }
       },
       "detail":{
-         "useragent":"default",
+         "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.tab-content a",
+            "selector":"ul.stui-content__playlist a",
             "attrName":"",
             "filter":""
          },
@@ -1375,6 +1326,55 @@
          }
       }
    },
+      {
+    "name": "iptv807",
+    "title": "iptv807",
+    "link": "http://iptv807.com/",
+    "description": "iptv807",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"?url=,dplayer/v3",
+    "next":"play",
+    "thumb":"https://tlgur.com/d/8ekvrJWg",
+    "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '其他', 'link': 'http://iptv807.com/?tid=other'},{'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "page/#page",
+      "pageone": "",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "mobile",
+      "videoscontainer":{"selector":"ul a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"_src","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "mobile",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"browser",
+      "pagerule": "",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
+      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
+      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
+      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
+    }
+  },
    {
       "name":"heibaizhibo",
       "title":"黑白直播",
@@ -7044,110 +7044,18 @@
          }
       }
    },
-{
-      "name": "Mantouys",
-      "title": "馒头影视",
-      "link": "http://www.mantouys.com",
-      "description": "馒头影视",
-      "localImageResource": "",
-      "presenter": "Movie",
-      "openBrowser": "no",
-      "inword": ".m3u8,.mp4",
-      "uninword": "?url=,dplayer/v3",
-      "next": "detail",
-      "thumb": "http://www.mantouys.com/tpl/img/logo.png",
-      "category": [{"name": "电影", "link": "http://www.mantouys.com/dianying"}, {"name": "剧情", "link": "http://www.mantouys.com/dianying/juqing"}, {"name": "爱情", "link": "http://www.mantouys.com/dianying/aiqing"}, {"name": "喜剧", "link": "http://www.mantouys.com/dianying/xiju"}, {"name": "动作", "link": "http://www.mantouys.com/dianying/dongzuo"}, {"name": "科幻", "link": "http://www.mantouys.com/dianying/kehuan"}, {"name": "灾难", "link": "http://www.mantouys.com/dianying/zainan"}, {"name": "战争", "link": "http://www.mantouys.com/dianying/zhanzheng"}, {"name": "恐怖", "link": "http://www.mantouys.com/dianying/kongbu"}, {"name": "悬疑", "link": "http://www.mantouys.com/dianying/xuanyi"}, {"name": "惊悚", "link": "http://www.mantouys.com/dianying/jingsong"}, {"name": "犯罪", "link": "http://www.mantouys.com/dianying/fanzui"}, {"name": "冒险", "link": "http://www.mantouys.com/dianying/maoxian"}, {"name": "奇幻", "link": "http://www.mantouys.com/dianying/qihuan"}, {"name": "动画", "link": "http://www.mantouys.com/dianying/donghua"}, {"name": "电视剧", "link": "http://www.mantouys.com/dianshiju"}, {"name": "大陆剧", "link": "http://www.mantouys.com/dianshiju/dalu"}, {"name": "港台剧", "link": "http://www.mantouys.com/dianshiju/gangtai"}, {"name": "日韩剧", "link": "http://www.mantouys.com/dianshiju/rihan"}, {"name": "欧美剧", "link": "http://www.mantouys.com/dianshiju/meiju"}, {"name": "泰国剧", "link": "http://www.mantouys.com/dianshiju/taiju"}, {"name": "海外剧", "link": "http://www.mantouys.com/dianshiju/haiwai"}, {"name": "综艺", "link": "http://www.mantouys.com/zongyi"}, {"name": "大陆综艺", "link": "http://www.mantouys.com/zongyi/dalu"}, {"name": "港台综艺", "link": "http://www.mantouys.com/zongyi/gangtai"}, {"name": "日韩综艺", "link": "http://www.mantouys.com/zongyi/rihan"}, {"name": "欧美综艺", "link": "http://www.mantouys.com/zongyi/oumei"}, {"name": "海外综艺", "link": "http://www.mantouys.com/zongyi/qita"}, {"name": "动漫", "link": "http://www.mantouys.com/dongman"}, {"name": "日漫", "link": "http://www.mantouys.com/dongman/riman"}, {"name": "国漫", "link": "http://www.mantouys.com/dongman/guoman"}, {"name": "美漫", "link": "http://www.mantouys.com/dongman/meiman"}, {"name": "其他", "link": "http://www.mantouys.com/dongman/qita"}, {"name": "纪录片", "link": "http://www.mantouys.com/jilupian"}, {"name": "中国纪录片", "link": "http://www.mantouys.com/jilupian/huaxia"}, {"name": "BBC纪录片", "link": "http://www.mantouys.com/jilupian/bbc"}, {"name": "人文自然", "link": "http://www.mantouys.com/jilupian/renwenziran"}, {"name": "微电影", "link": "http://www.mantouys.com/duanpian"}, {"name": "网大", "link": "http://www.mantouys.com/duanpian/wangda"}, {"name": "短片", "link": "http://www.mantouys.com/duanpian/duanpian"}, {"name": "音乐MV", "link": "http://www.mantouys.com/duanpian/yinyue"}, {"name": "预告片", "link": "http://www.mantouys.com/duanpian/yugaopian"}],
-      "list": {
-         "pagefilter": "",
-         "pagerule": "/page/#page",
-         "pageone": "/page/1",
-         "fetchtype": "default",
-         "pagesize": 8,
-         "useragent": "default",
-         "videoscontainer": {
-            "selector": "a.movie-img",
-            "attrName": "",
-            "filter": ""
-         },
-         "title": {
-            "selector": "",
-            "attrName": "title",
-            "filter": ""
-         },
-         "thumb": {
-            "selector": "img",
-            "attrName": "_src",
-            "filter": ""
-         },
-         "link": {
-            "selector": "",
-            "attrName": "href",
-            "filter": ""
-         }
-      },
-      "detail": {
-         "useragent": "default",
-         "fetchtype": "default",
-         "videoscontainer": {
-            "selector": "a.play-btn",
-            "attrName": "",
-            "filter": ""
-         },
-         "title": {
-            "selector": "",
-            "attrName": "text",
-            "filter": ""
-         },
-         "link": {
-            "selector": "",
-            "attrName": "href",
-            "filter": ""
-         }
-      },
-      "play": {
-         "useragent": "mobile",
-         "filter": "",
-         "player": "ijk"
-      },
-      "search": {
-         "useragent": "default",
-         "fetchtype": "browser",
-         "pagerule": "",
-         "pageone": "",
-         "pagesize": 8,
-         "videoscontainer": {
-            "selector": "li.item",
-            "attrName": "",
-            "filter": ""
-         },
-         "title": {
-            "selector": "h5.subject a",
-            "attrName": "title",
-            "filter": ""
-         },
-         "thumb": {
-            "selector": "img.lazy-load-img",
-            "attrName": "_src",
-            "filter": ""
-         },
-         "link": {
-            "selector": "h5.subject a",
-            "attrName": "href",
-            "filter": ""
-         }
-      }
-   },{
+   {
     "name": "bdzy",
     "title": "百度云资源",
     "link": "http://bdzy.com",
     "description": "百度云资源",
     "localImageResource": "",
-    "presenter": "Text",
+    "presenter": "Movie",
     "openBrowser": "no",
     "inword":".m3u8,.mp4",
     "uninword":"51.la,?url=,dplayer/v3",
     "next":"detail",
-    "thumb":"http://bdzy.com/statics/img/logo_max_f.png",
+    "thumb":"https://tlgur.com/d/8QezX5w8",
     "category":[{'name': '首页', 'link': 'http://bdzy.com/index.php/index/index/'}, {'name': '电影', 'link': 'http://bdzy.com/index.php/vod/type/id/20'}, {'name': '动作片', 'link': 'http://bdzy.com/index.php/vod/type/id/21'}, {'name': '喜剧片', 'link': 'http://bdzy.com/index.php/vod/type/id/22'}, {'name': '爱情片', 'link': 'http://bdzy.com/index.php/vod/type/id/23'}, {'name': '科幻片', 'link': 'http://bdzy.com/index.php/vod/type/id/24'}, {'name': '恐怖片', 'link': 'http://bdzy.com/index.php/vod/type/id/25'}, {'name': '犯罪片', 'link': 'http://bdzy.com/index.php/vod/type/id/26'}, {'name': '战争片', 'link': 'http://bdzy.com/index.php/vod/type/id/27'}, {'name': '动画电影', 'link': 'http://bdzy.com/index.php/vod/type/id/28'}, {'name': '剧情片', 'link': 'http://bdzy.com/index.php/vod/type/id/29'}, {'name': '记录片', 'link': 'http://bdzy.com/index.php/vod/type/id/30'}, {'name': '电视剧', 'link': 'http://bdzy.com/index.php/vod/type/id/31'}, {'name': '国产剧', 'link': 'http://bdzy.com/index.php/vod/type/id/32'}, {'name': '香港剧', 'link': 'http://bdzy.com/index.php/vod/type/id/33'}, {'name': '日本剧', 'link': 'http://bdzy.com/index.php/vod/type/id/34'}, {'name': '欧美剧', 'link': 'http://bdzy.com/index.php/vod/type/id/35'}, {'name': '海外剧', 'link': 'http://bdzy.com/index.php/vod/type/id/57'}, {'name': '台湾剧', 'link': 'http://bdzy.com/index.php/vod/type/id/58'}, {'name': '韩国剧', 'link': 'http://bdzy.com/index.php/vod/type/id/59'}, {'name': '综艺', 'link': 'http://bdzy.com/index.php/vod/type/id/36'}, {'name': '大陆综艺', 'link': 'http://bdzy.com/index.php/vod/type/id/37'}, {'name': '日韩综艺', 'link': 'http://bdzy.com/index.php/vod/type/id/38'}, {'name': '港台综艺', 'link': 'http://bdzy.com/index.php/vod/type/id/39'}, {'name': '欧美综艺', 'link': 'http://bdzy.com/index.php/vod/type/id/40'}, {'name': '动漫', 'link': 'http://bdzy.com/index.php/vod/type/id/41'}, {'name': '国产动漫', 'link': 'http://bdzy.com/index.php/vod/type/id/42'}, {'name': '日本动漫', 'link': 'http://bdzy.com/index.php/vod/type/id/43'}, {'name': '欧美动漫', 'link': 'http://bdzy.com/index.php/vod/type/id/44'}, {'name': '海外动漫', 'link': 'http://bdzy.com/index.php/vod/type/id/45'}, {'name': '体育频道', 'link': 'http://bdzy.com/index.php/vod/type/id/46'}, {'name': '综合', 'link': 'http://bdzy.com/index.php/vod/type/id/47'}, {'name': '台球', 'link': 'http://bdzy.com/index.php/vod/type/id/48'}, {'name': '搏击格斗', 'link': 'http://bdzy.com/index.php/vod/type/id/49'}, {'name': '赛车', 'link': 'http://bdzy.com/index.php/vod/type/id/51'}, {'name': '极限运动', 'link': 'http://bdzy.com/index.php/vod/type/id/52'}, {'name': '网球', 'link': 'http://bdzy.com/index.php/vod/type/id/53'}, {'name': '篮球', 'link': 'http://bdzy.com/index.php/vod/type/id/54'}, {'name': '足球', 'link': 'http://bdzy.com/index.php/vod/type/id/55'}],
     "list": {
       "pagefilter":"",
@@ -7155,14 +7063,14 @@
       "pageone": "/page/1.html",
       "fetchtype":"default",
       "pagesize": 8,
-      "useragent": "default",
+      "useragent": "mobile",
       "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
       "title":{"selector":"","attrName":"text","filter": "" },
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     },
     "detail": {
-      "useragent": "default",
+      "useragent": "mobile",
       "fetchtype":"default",
       "videoscontainer":{"selector":"ul.stui-content__playlist a.copy_text","attrName":"","filter": "" },
       "title":{"selector":"","attrName":"text","filter": "(.*)\\$" },
@@ -7184,158 +7092,8 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
-  },{
-    "name": "520cyou",
-    "title": "A级视频网",
-    "link": "http://520.cyou",
-    "description": "A级视频网",
-    "localImageResource": "",
-    "presenter": "Movie",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4",
-    "uninword":"?url=,dplayer/v3",
-    "next":"detail",
-    "thumb":"http://520.cyou/templets/default/images/img/logo.png",
-    "category":[{'name': '电影', 'link': 'http://520.cyou/frim/index1'}, {'name': '电视剧', 'link': 'http://520.cyou/frim/index2'},{'name': '综艺', 'link': 'http://520.cyou/frim/index3'},{'name': '动漫', 'link': 'http://520.cyou/frim/index4'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "-#page.html",
-      "pageone": "-1.html",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "default",
-      "videoscontainer":{"selector":"ul.myui-vodlist a.myui-vodlist__thumb","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"title","filter": "" },
-      "thumb":{"selector":"","attrName":"data-original","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "default",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"ul.myui-content__list a","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"browser",
-      "pagerule": "http://520.cyou/search.php?page=#mpageno&searchword=#msearchword&searchtype=",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"a.myui-vodlist__thumb","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"title","filter": "" },
-      "thumb":{"selector":"","attrName":"data-original","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    }
   },
-   {
-      "name":"dmdm2020",
-      "title":"哆咪动漫网",
-      "link":"http://www.dmdm2020.com",
-      "description":"哆咪动漫网",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMaK5Eg",
-      "category":[
-         {
-            "name":"国产动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/21"
-         },
-         {
-            "name":"日本动漫",
-            "link":"http://www.dmdm2020.com/dongmantype/20"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "pageone":".html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-content__list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "pagerule":"http://www.dmdm2020.com/dongmansearch/wd/#msearchword/page/#mpageno.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
+  {
       "name":"ddrk.me",
       "title":"低端影视",
       "link":"",
@@ -7446,361 +7204,6 @@
          },
          "link":{
             "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"電視直播",
-      "title":"iptv345",
-      "link":"http://m.iptv345.com",
-      "description":"網絡電視直播",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/8ekvrJWg",
-      "category":[
-         {
-            "name":"港澳台",
-            "link":"http://m.iptv345.com/?tid=gt&t=8"
-         },
-         {
-            "name":"體育台",
-            "link":"http://m.iptv345.com/?tid=ty"
-         },
-         {
-            "name":"央視台",
-            "link":"http://m.iptv345.com/?tid=ys"
-         },
-         {
-            "name":"衛視台",
-            "link":"http://m.iptv345.com/?tid=ws"
-         },
-         {
-            "name":"綜合",
-            "link":"http://m.iptv345.com/?tid=itv"
-         } ,
-         {
-            "name":"其他",
-            "link":"http://m.iptv345.com/?tid=other"
-         } ,
-         {
-            "name":"電影",
-            "link":"http://m.iptv345.com/?tid=movie"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"",
-         "fetchtype":"default",
-         "pageone":"",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"option",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"value",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"default",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.dolbytv.com/index.php/vodsearch/#msearchword----------#mpageno---/",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.vodlist_thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"剧汇TV",
-      "title":"剧汇TV",
-      "link":"https://www.k365.tv",
-      "description":"www.k365.tv",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":"ipfs",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GXMMX7Pg",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.k365.tv/listpage/5dde53fca60dfd003645062f/%E6%9C%80%E6%96%B0%E7%94%B5%E5%BD%B1/"
-         },
-         {
-            "name":"热门电视剧",
-            "link":"https://www.k365.tv/listpage/5dcbc0691bf94d00294ddf2d/%E7%83%AD%E9%97%A8%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"国产电视剧",
-            "link":"https://www.k365.tv/listpage/5db7e23c1f1a7b0029a3cc4d/%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"欧美电视剧",
-            "link":"https://www.k365.tv/listpage/5d2e8a9deba3e50016617e2d/%E6%AC%A7%E7%BE%8E%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"韩国电视剧",
-            "link":"https://www.k365.tv/listpage/5dca80bf1bf94d00294dd865/%E9%9F%A9%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"日本电视剧",
-            "link":"https://www.k365.tv/listpage/5dd399c81bf94d00294de9ab/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"港台电视剧",
-            "link":"https://www.k365.tv/listpage/5dc28dbd1bf94d00294dcddc/%E5%8F%B0%E6%B8%AF%E7%94%B5%E8%A7%86%E5%89%A7/"
-         },
-         {
-            "name":"日本动漫",
-            "link":"https://www.k365.tv/listpage/5e578c2944b95d00296205e6/%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB/"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"#page.html",
-         "pageone":"1.html",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"div.itemContainer___1kwah",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img",
-            "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.canPlay___KjuPO",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "pagerule":"https://www.k365.tv/search/#msearchword/#mpageno/new/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"ul.lists___3_5Ll",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"li a",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img",
-            "attrName":"src",
-            "filter":""
-         },
-         "link":{
-            "selector":"li a",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"epang",
-      "title":"阿房影视",
-      "link":"https://epang.ml",
-      "description":"epang.ml",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GZDDxn64",
-      "category":[
-         {
-            "name":"欧美剧",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/en"
-         },
-         {
-            "name":"日韩剧",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/kr"
-         },
-         {
-            "name":"电影",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/movie"
-         },
-         {
-            "name":"动画片",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/donghua"
-         },
-         {
-            "name":"纪录片",
-            "link":"https://epang.ml/movie_bt/movie_bt_series/jlp"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page",
-         "fetchtype":"default",
-         "pageone":"/",
-         "pagesize":8,
-         "useragent":"mobile",
-         "videoscontainer":{
-            "selector":"div.bt_img li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img.thumb",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.thumb",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"h3.dytit a",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"mobile",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"div.paly_list_btn a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"mobile",
-         "fetchtype":"browser",
-         "pagerule":"https://epang.ml/page/#mpageno?s=#msearchword",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"div.bt_img li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"img.thumb",
-            "attrName":"alt",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.thumb",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a",
             "attrName":"href",
             "filter":""
          }
