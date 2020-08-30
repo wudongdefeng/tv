@@ -1,0 +1,21 @@
+{
+  "inbounds": [{
+    "port": 1024, 
+    "protocol": "shadowsocks",
+    "settings": {
+      "method": "chacha20",
+      "ota": false, 
+      "password": "197346"
+    }
+  }],
+  "outbounds": [{
+    "protocol": "socks",
+    "settings": {
+	  "servers": [{
+      "address": "127.0.0.1",
+      "port": 7891,
+      "auth": "noauth"
+      }]
+    }
+  }]
+}
