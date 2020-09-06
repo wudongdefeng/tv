@@ -96,12 +96,15 @@ chmod +x install.sh
 
 4、修复tr重启连接硬盘BUG
 
-sleep 10
+
+sleep 58
 /etc/init.d/clash start
+/etc/init.d/v2ray start
 block mount
 /etc/init.d/transmission restart
 /etc/init.d/aria2 restart
 exit 0
+
 
 5、Rclone命令行
 装载 ：rclone mount googlet: /mnt/mmcblk0p2/media/0/GD --allow-other --allow-non-empty --vfs-cache-mode writes &
