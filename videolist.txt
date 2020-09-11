@@ -283,19 +283,19 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://k1080.net/index.php/vodtype/1"
+            "link":"https://k1080.net/vodtype/1"
          },
          {
             "name":"电视剧",
-            "link":"https://k1080.net/index.php/vodtype/2"
+            "link":"https://k1080.net/vodtype/2"
          },
          {
             "name":"综艺",
-            "link":"https://k1080.net/index.php/vodtype/3"
+            "link":"https://k1080.net/vodtype/3"
          },
          {
             "name":"动漫",
-            "link":"https://k1080.net/index.php/vodtype/4"
+            "link":"https://k1080.net/vodtype/4"
          }
       ],
       "list":{
@@ -950,6 +950,128 @@
          "pagesize":8,
          "videoscontainer":{
             "selector":"a.myui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+      {
+      "name":"WANMEIKANKAN",
+      "title":"完美看看",
+      "link":"https://www.wanmeikk.me",
+      "description":"完美看看",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/g500PvpG",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.wanmeikk.me/category/1"
+         },
+         {
+            "name":"欧美剧",
+            "link":"https://www.wanmeikk.me/category/2"
+         },
+         {
+            "name":"韩剧",
+            "link":"https://www.wanmeikk.me/category/3"
+         },
+         {
+            "name":"日剧",
+            "link":"https://www.wanmeikk.me/category/4"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.wanmeikk.me/category/5"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.wanmeikk.me/category/7"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.wanmeikk.me/category/6"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "pageone":"-1.html",
+         "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.stui-content__playlist a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"url=(.*)",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.wanmeikk.me/so/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -6689,128 +6811,6 @@
          },
          "link":{
             "selector":"a.videopic",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"WANMEIKANKAN",
-      "title":"完美看看",
-      "link":"https://www.wanmeikk.me",
-      "description":"完美看看",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/g500PvpG",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.wanmeikk.me/category/1"
-         },
-         {
-            "name":"欧美剧",
-            "link":"https://www.wanmeikk.me/category/2"
-         },
-         {
-            "name":"韩剧",
-            "link":"https://www.wanmeikk.me/category/3"
-         },
-         {
-            "name":"日剧",
-            "link":"https://www.wanmeikk.me/category/4"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.wanmeikk.me/category/5"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.wanmeikk.me/category/7"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.wanmeikk.me/category/6"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":"-1.html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.stui-content__playlist a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.wanmeikk.me/so/#msearchword----------#mpageno---.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
             "attrName":"href",
             "filter":""
          }
