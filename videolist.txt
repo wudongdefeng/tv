@@ -1792,7 +1792,7 @@
          "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"a.btn",
+            "selector":"a.line-pay-btn",
             "attrName":"",
             "filter":""
          },
