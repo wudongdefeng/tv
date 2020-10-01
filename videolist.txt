@@ -1907,7 +1907,7 @@
       },
       "play":{
          "useragent":"mobile",
-         "filter":"id=(.*)",
+         "filter":"\\?m3u8=(.*)",
          "player":"ijk"
       },
       "search":{
