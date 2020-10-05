@@ -244,6 +244,11 @@
             "name":"电影",
             "link":"https://www.subaibai.com/new-movie"
          },
+        {
+            "name":"高分电影",
+            "link":"https://www.subaibai.com/gf"
+         },
+
        {
             "name":"国产剧",
             "link":"https://www.subaibai.com/movie_bt_series/guochanju"
