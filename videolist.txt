@@ -405,19 +405,19 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://www.k1080.net/vodtype/1.html"
+            "link":"https://www.k1080.net/vodtype/1"
          },
          {
             "name":"电视剧",
-            "link":"https://www.k1080.net/vodtype/2.html"
+            "link":"https://www.k1080.net/vodtype/2"
          },
          {
             "name":"综艺",
-            "link":"https://www.k1080.net/vodtype/3.html"
+            "link":"https://www.k1080.net/vodtype/3"
          },
          {
             "name":"动漫",
-            "link":"https://www.k1080.net/vodtype/4.html"
+            "link":"https://www.k1080.net/vodtype/4"
          }
       ],
       "list":{
