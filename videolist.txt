@@ -228,6 +228,128 @@
       }
    },
    {
+      "name":"WANMEIKANKAN",
+      "title":"完美看看",
+      "link":"https://www.wanmeikk.me",
+      "description":"完美看看",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/g500PvpG",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.wanmeikk.me/category/1"
+         },
+         {
+            "name":"欧美剧",
+            "link":"https://www.wanmeikk.me/category/2"
+         },
+         {
+            "name":"韩剧",
+            "link":"https://www.wanmeikk.me/category/3"
+         },
+         {
+            "name":"日剧",
+            "link":"https://www.wanmeikk.me/category/4"
+         },
+         {
+            "name":"国产剧",
+            "link":"https://www.wanmeikk.me/category/5"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.wanmeikk.me/category/7"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.wanmeikk.me/category/6"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "pageone":"-1.html",
+         "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.stui-content__playlist a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"url=(.*)",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://www.wanmeikk.me/so/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
       "name":"SUBAIBAI",
       "title":"素白白影视",
       "link":"https://www.subaibai.com",
@@ -1092,128 +1214,6 @@
          }
       }
    },
-      {
-      "name":"WANMEIKANKAN",
-      "title":"完美看看",
-      "link":"https://www.wanmeikk.me",
-      "description":"完美看看",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/g500PvpG",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.wanmeikk.me/category/1"
-         },
-         {
-            "name":"欧美剧",
-            "link":"https://www.wanmeikk.me/category/2"
-         },
-         {
-            "name":"韩剧",
-            "link":"https://www.wanmeikk.me/category/3"
-         },
-         {
-            "name":"日剧",
-            "link":"https://www.wanmeikk.me/category/4"
-         },
-         {
-            "name":"国产剧",
-            "link":"https://www.wanmeikk.me/category/5"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.wanmeikk.me/category/7"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.wanmeikk.me/category/6"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":"-1.html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.stui-content__playlist a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.wanmeikk.me/so/#msearchword----------#mpageno---.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
    {
       "name":"Duboku",
       "title":"独播库",
@@ -1570,55 +1570,6 @@
          }
       }
    },
-      {
-    "name": "iptv807",
-    "title": "iptv807",
-    "link": "http://iptv807.com/",
-    "description": "iptv807",
-    "localImageResource": "",
-    "presenter": "Movie",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4",
-    "uninword":"?url=,dplayer/v3",
-    "next":"play",
-    "thumb":"https://tlgur.com/d/8ekvrJWg",
-    "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '其他', 'link': 'http://iptv807.com/?tid=other'},{'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "page/#page",
-      "pageone": "",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "mobile",
-      "videoscontainer":{"selector":"ul a","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "thumb":{"selector":"","attrName":"_src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "mobile",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"browser",
-      "pagerule": "",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
-      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
-      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
-    }
-  },
    {
       "name":"heibaizhibo",
       "title":"黑白直播",
@@ -7096,6 +7047,55 @@
       "title":{"selector":"","attrName":"text","filter": "" },
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
+    }
+  },
+  {
+    "name": "iptv807",
+    "title": "iptv807",
+    "link": "http://iptv807.com/",
+    "description": "iptv807",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"?url=,dplayer/v3",
+    "next":"play",
+    "thumb":"https://tlgur.com/d/8ekvrJWg",
+    "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '其他', 'link': 'http://iptv807.com/?tid=other'},{'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "page/#page",
+      "pageone": "",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "mobile",
+      "videoscontainer":{"selector":"ul a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"_src","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "mobile",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"browser",
+      "pagerule": "",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
+      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
+      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
+      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
     }
   },
   {
