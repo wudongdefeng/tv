@@ -1681,7 +1681,7 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"",
+      "uninword":"action=",
       "next":"play",
       "thumb":"https://tlgur.com/d/g6Yn2vzG",
       "category":[
