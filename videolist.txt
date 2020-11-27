@@ -1681,24 +1681,21 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"action=",
+      "uninword":"",
       "next":"next",
       "thumb":"https://tlgur.com/d/g6Yn2vzG",
       "category":[
         {
             "name":"热门",
-            "link":"https://m.heibaizhibo.com",
-            "next":"play"
+            "link":"https://m.heibaizhibo.com"
          },
          {
             "name":"篮球",
-            "link":"https://m.heibaizhibo.com/live/basketball",
-            "next":"play"
+            "link":"https://m.heibaizhibo.com/live/basketball"
          },
          {
             "name":"足球",
-            "link":"https://m.heibaizhibo.com/live/soccer",
-            "next":"play"
+            "link":"https://m.heibaizhibo.com/live/soccer"
          }
       ],
       "list":{
@@ -1734,22 +1731,22 @@
          "fetchtype":"browser",
        "onclick":"yes",
          "clickcontainer":{
-            "selector":"div.zbnav span",
+            "selector":"div.list",
             "attrName":"",
             "filter":""
          },
          "videoscontainer":{
-            "selector":"div.zbnav span",
+            "selector":"div.list",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
+            "selector":"span.name",
             "attrName":"text",
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"span.name",
             "attrName":"href",
             "filter":""
          }
