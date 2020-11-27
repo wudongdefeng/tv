@@ -1681,21 +1681,24 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"action=",
-      "next":"play",
+      "uninword":"",
+      "next":"next",
       "thumb":"https://tlgur.com/d/g6Yn2vzG",
       "category":[
         {
             "name":"热门",
             "link":"https://m.heibaizhibo.com"
+            "next":"play"
          },
          {
             "name":"篮球",
             "link":"https://m.heibaizhibo.com/live/basketball"
+            "next":"play"
          },
          {
             "name":"足球",
             "link":"https://m.heibaizhibo.com/live/soccer"
+            "next":"play"
          }
       ],
       "list":{
