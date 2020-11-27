@@ -1789,7 +1789,7 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"id1=,id2=",
+      "uninword":"player,id,id1=,id2=",
       "next":"detail",
       "thumb":"https://tlgur.com/d/GLrzDYX4",
       "category":[
