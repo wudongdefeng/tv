@@ -1685,6 +1685,10 @@
       "next":"detail",
       "thumb":"https://tlgur.com/d/g6Yn2vzG",
       "category":[
+        {
+            "name":"热门",
+            "link":"https://m.heibaizhibo.com"
+         },
          {
             "name":"篮球",
             "link":"https://m.heibaizhibo.com/live/basketball"
