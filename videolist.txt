@@ -1682,7 +1682,7 @@
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
       "uninword":"jx.php,player.php",
-      "next":"detail",
+      "next":"play",
       "thumb":"https://tlgur.com/d/g6Yn2vzG",
       "category":[
         {
