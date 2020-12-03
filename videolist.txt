@@ -1451,8 +1451,8 @@
    {
       "name":"Pianku",
       "title":"片库",
-      "link":"https://www.pianku.tv",
-      "description":"www.pianku.tv",
+      "link":"https://www.pianku.li",
+      "description":"www.pianku.li",
       "localImageResource":"",
       "presenter":"Movie",
       "openBrowser":"no",
@@ -1463,15 +1463,15 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://www.pianku.tv/mv/------"
+            "link":"https://www.pianku.li/mv/------"
          },
          {
             "name":"连续剧",
-            "link":"https://www.pianku.tv/tv/------"
+            "link":"https://www.pianku.li/tv/------"
          },
          {
             "name":"动漫",
-            "link":"https://www.pianku.tv/ac/------"
+            "link":"https://www.pianku.li/ac/------"
          }
       ],
       "list":{
@@ -1529,7 +1529,7 @@
       "search":{
          "useragent":"default",
          "fetchtype":"default",
-         "pagerule":"https://www.pianku.tv/s/#msearchword-#mpageno.html",
+         "pagerule":"https://www.pianku.li/s/#msearchword-#mpageno.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
