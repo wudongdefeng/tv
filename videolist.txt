@@ -757,7 +757,7 @@
       "list":{
          "pagefilter":"",
          "pagerule":"/page/#page.html",
-         "pageone":"/page/1.html",
+         "pageone":".html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"mobile",
