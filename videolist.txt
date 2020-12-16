@@ -772,8 +772,8 @@
             "filter":""
          },
          "thumb":{
-            "selector":"img",
-            "attrName":"src",
+            "selector":"",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
