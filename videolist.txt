@@ -727,7 +727,7 @@
    {
       "name":"VIPYY",
       "title":"VIP影院",
-      "link":"https://www.vipyy666.co",
+      "link":"https://www.vipyy666.com",
       "description":"全网VIP电影免费看",
       "localImageResource":"",
       "presenter":"Movie",
