@@ -6810,17 +6810,17 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.paly_list_btn a",
+            "selector":"div.paly_list_btn",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
+            "selector":"a",
             "attrName":"text",
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"a",
             "attrName":"href",
             "filter":""
          }
