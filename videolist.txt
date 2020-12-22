@@ -3319,7 +3319,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.list.playlist",
+            "selector":"div.list",
             "attrName":"",
             "filter":""
          },
@@ -3331,7 +3331,7 @@
          "link":{
             "selector":"a",
             "attrName":"href",
-            "filter":"\\'(.*))\\'"
+            "filter":"\\'(.*)\\'"
          }
       },
       "play":{
@@ -7027,55 +7027,6 @@
       "title":{"selector":"","attrName":"text","filter": "" },
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
-    }
-  },
-  {
-    "name": "iptv807",
-    "title": "iptv807",
-    "link": "http://iptv807.com/",
-    "description": "iptv807",
-    "localImageResource": "",
-    "presenter": "Movie",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4",
-    "uninword":"?url=,dplayer/v3",
-    "next":"play",
-    "thumb":"https://tlgur.com/d/8ekvrJWg",
-    "category":[{'name': '綜合', 'link': 'http://iptv807.com/?tid=itv'}, {'name': '體育', 'link': 'http://iptv807.com/?tid=ty'}, {'name': '港澳台', 'link': 'http://iptv807.com/?tid=gt&t=20200824'}, {'name': '央視', 'link': 'http://iptv807.com/?tid=ys'}, {'name': '衛視', 'link': 'http://iptv807.com/?tid=ws'}, {'name': '電影', 'link': 'http://iptv807.com/?tid=movie'}, {'name': '其他', 'link': 'http://iptv807.com/?tid=other'},{'name': '咪咕视频', 'link': 'http://iptv807.com/?tid=migu'}, {'name': '北方云IPTV', 'link': 'http://iptv807.com/?tid=bfiptv'}, {'name': '天途云IPTV', 'link': 'http://iptv807.com/?tid=tt'}, {'name': '广西联通IPTV', 'link': 'http://iptv807.com/?tid=ltiptv'}, {'name': '北京教育网IPTV', 'link': 'http://iptv807.com/?tid=bupt'}, {'name': '福建移動IPTV', 'link': 'http://iptv807.com/?tid=fjitv'}, {'name': '黑龍江移動IPTV', 'link': 'http://iptv807.com/?tid=hlitv'}, {'name': 'IPv6网络电视(限IPv6)', 'link': 'http://iptv807.com/?tid=ipv6'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "page/#page",
-      "pageone": "",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "mobile",
-      "videoscontainer":{"selector":"ul a","attrName":"", "filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "thumb":{"selector":"","attrName":"_src","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "mobile",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"ul.episodes-list a","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
-      "link":{"selector":"","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"browser",
-      "pagerule": "",
-      "pageone": "",
-      "pagesize": 8,
-      "videoscontainer":{"selector":"li.item","attrName":"", "filter": "" },
-      "title":{"selector":"h5.subject a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img.lazy-load-img","attrName":"_src","filter": "" },
-      "link":{"selector":"h5.subject a","attrName":"href","filter": "" }
     }
   },
   {
