@@ -845,7 +845,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/GJa6zKp8",
+      "thumb":"https://tlgur.com/d/8Br5eyd8",
       "category":[
          {
             "name":"电影",
