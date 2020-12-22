@@ -6657,19 +6657,19 @@
       "category":[
          {
             "name":"电影",
-            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=1"
+            "link":"https://www.nicemov.com/search.php?searchtype=5&tid=1"
          },
          {
             "name":"电视剧",
-            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=2"
+            "link":"https://www.nicemov.com/search.php?searchtype=5&tid=2"
          },
          {
             "name":"综艺",
-            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=3"
+            "link":"https://www.nicemov.com/search.php?searchtype=5&tid=3"
          },
          {
             "name":"动漫",
-            "link":"https://www.nicemov.com/search10.php?searchtype=5&tid=4"
+            "link":"https://www.nicemov.com/search.php?searchtype=5&tid=4"
          }
       ],
       "list":{
@@ -6747,120 +6747,6 @@
          },
          "link":{
             "selector":"a.videopic",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"HEIDANYY",
-      "title":"黑蛋影院",
-      "link":"http://www.mvduo.com",
-      "description":"黑蛋影院",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/81eedbe8",
-      "category":[
-         {
-            "name":"电影",
-            "link":"http://www.mvduo.com/index.php/vod/type/id/1/page/"
-         },
-         {
-            "name":"连续剧",
-            "link":"http://www.mvduo.com/index.php/vod/type/id/2/page/"
-         },
-         {
-            "name":"综艺",
-            "link":"http://www.mvduo.com/index.php/vod/type/id/3/page/"
-         },
-         {
-            "name":"动漫",
-            "link":"http://www.mvduo.com/index.php/vod/type/id/4/page/"
-         },
-         {
-            "name":"纪录",
-            "link":"http://www.mvduo.com/index.php/vod/type/id/24/page/"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"#page.html",
-         "pageone":"1.html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.stui-play__list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"http://www.mvduo.com/index.php/vod/search/page/#mpageno/wd/#msearchword.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
             "attrName":"href",
             "filter":""
          }
