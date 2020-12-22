@@ -901,7 +901,7 @@
       },
       "play":{
          "useragent":"mobile",
-         "filter":"",
+         "filter":"url=(.*)",
          "player":"ijk"
       },
       "search":{
