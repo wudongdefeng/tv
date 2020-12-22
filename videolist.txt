@@ -3264,7 +3264,7 @@
       "category":[
          {
             "name":"电影",
-            "link":"http://www.tl86tv.com/List1/17"
+            "link":"http://www.tl86tv.com/index.php/List1/17"
          },
          {
             "name":"欧美剧",
