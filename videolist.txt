@@ -461,7 +461,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"51.la,?url=,dplayer/v3",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/4AYkNv24",
+      "thumb":"https://tlgur.com/d/4k7AozQ4",
       "category":[
          {
             "name":"电影",
