@@ -3268,23 +3268,23 @@
          },
          {
             "name":"欧美剧",
-            "link":"http://www.tl86tv.com/List/11"
+            "link":"http://www.tl86tv.com/index.php/List/11"
          },
          {
             "name":"日韩剧",
-            "link":"http://www.tl86tv.com/List/12"
+            "link":"http://www.tl86tv.com/index.php/List/12"
          },
          {
             "name":"国产剧",
-            "link":"http://www.tl86tv.com/List/9"
+            "link":"http://www.tl86tv.com/index.php/List/9"
          },
          {
             "name":"TVB专区",
-            "link":"http://www.tl86tv.com/List/52"
+            "link":"http://www.tl86tv.com/index.php/List/52"
          },
          {
             "name":"动漫频道",
-            "link":"http://www.tl86tv.com/List/48"
+            "link":"http://www.tl86tv.com/index.php/List/48"
          }
       ],
       "list":{
