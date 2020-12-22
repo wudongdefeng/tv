@@ -6786,18 +6786,18 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"div.bt_img ul li a",
+            "selector":"h3.dytit a",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"img",
-            "attrName":"alt",
+            "selector":"",
+            "attrName":"text",
             "filter":""
          },
          "thumb":{
-            "selector":"img",
-            "attrName":"src",
+            "selector":"",
+            "attrName":"text",
             "filter":""
          },
          "link":{
