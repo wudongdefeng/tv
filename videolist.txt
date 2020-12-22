@@ -3250,7 +3250,7 @@
       }
    },
    {
-      "name":"20mao",
+      "name":"tl86tv",
       "title":"天龙影院",
       "link":"http://www.tl86tv.com",
       "description":"天龙影院",
@@ -3319,7 +3319,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.list",
+            "selector":"div.list.playlist",
             "attrName":"",
             "filter":""
          },
