@@ -6810,7 +6810,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.paly_list_btn a",
+            "selector":"div.mi_ne_kd a",
             "attrName":"",
             "filter":""
          },
