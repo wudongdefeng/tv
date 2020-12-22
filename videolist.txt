@@ -3319,17 +3319,17 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.list.playlist",
+            "selector":"div.list.playlist a",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"a",
+            "selector":"",
             "attrName":"text",
             "filter":""
          },
          "link":{
-            "selector":"a",
+            "selector":"",
             "attrName":"href",
             "filter":"\\'(.*)\\'"
          }
