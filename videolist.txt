@@ -6786,7 +6786,7 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"div.bt_img li a",
+            "selector":"div.bt_img ul li a",
             "attrName":"",
             "filter":""
          },
