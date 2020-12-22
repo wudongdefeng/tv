@@ -3263,10 +3263,6 @@
       "thumb":"https://tlgur.com/d/4x77LaJg",
       "category":[
          {
-            "name":"电影",
-            "link":"http://www.tl86tv.com/index.php/List1/17"
-         },
-         {
             "name":"欧美剧",
             "link":"http://www.tl86tv.com/index.php/List/11"
          },
@@ -3285,6 +3281,10 @@
          {
             "name":"动漫频道",
             "link":"http://www.tl86tv.com/index.php/List/48"
+         },
+         {
+            "name":"电影",
+            "link":"http://www.tl86tv.com/index.php/List1/17"
          }
       ],
       "list":{
