@@ -6111,7 +6111,7 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"a.link-stui-vodlist__thumb",
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -6135,7 +6135,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.stui-content__playlist a ",
+            "selector":"ul.stui-content__playlist a",
             "attrName":"",
             "filter":""
          },
