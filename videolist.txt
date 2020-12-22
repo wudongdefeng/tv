@@ -449,7 +449,7 @@
             "filter":""
          }
       }
-   }
+   },
    {
       "name":"Tzfile",
       "title":"团长资源",
