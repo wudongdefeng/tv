@@ -1763,124 +1763,6 @@
       }
    },
    {
-      "name":"haitudy",
-      "title":"海兔影院",
-      "link":"http://www.haitudy.com",
-      "description":"海兔影院",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"?url=,dplayer/v3",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/4k7xVOn4",
-      "category":[
-         {
-            "name":"电影",
-            "link":"http://www.haitudy.com/dianying/"
-         },
-         {
-            "name":"电视剧",
-            "link":"http://www.haitudy.com/dianshiju/"
-         },
-         {
-            "name":"综艺",
-            "link":"http://www.haitudy.com/zongyi/"
-         },
-         {
-            "name":"动漫",
-            "link":"http://www.haitudy.com/dongman/"
-         },
-         {
-            "name":"记录片",
-            "link":"http://www.haitudy.com/jilupian/"
-         },
-         {
-            "name":"微电影",
-            "link":"http://www.haitudy.com/weidianying/"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"page/#page",
-         "pageone":"page/1",
-         "fetchtype":"browser",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"ul.new-list li.item",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a.thumb",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.lazy-load-img",
-            "attrName":"_src",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.thumb",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.episodes-list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"browser",
-         "pagerule":"http://www.haitudy.com/search/#msearchword/page/#mpageno",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"li.item",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"h5.subject a",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"img.lazy-load-img",
-            "attrName":"_src",
-            "filter":""
-         },
-         "link":{
-            "selector":"h5.subject a",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"heibaizhibo",
       "title":"黑白直播",
       "link":"https://m.heibaizhibo.com",
@@ -2830,120 +2712,6 @@
       }
    },
    {
-      "name":"jakvcd",
-      "title":"喜欢看影视",
-      "link":"https://www.138vcd.com",
-      "description":"喜欢看影视",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":"m3u8,mp4",
-      "uninword":"138vcd",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/G7oBQ6EG",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://www.138vcd.com/index.php/vod/show/id/21"
-         },
-         {
-            "name":"连续剧",
-            "link":"https://www.138vcd.com/index.php/vod/show/id/21"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.138vcd.com/index.php/vod/show/id/22"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.138vcd.com/index.php/vod/show/id/23"
-         },
-         {
-            "name":"纪录片",
-            "link":"https://www.138vcd.com/index.php/vod/show/id/24"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "pageone":".html",
-         "fetchtype":"default",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"ul.myui-content__list a",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://www.138vcd.com/vodsearch/page/#mpageno/wd/#msearchword.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
       "name":"qimiqimi",
       "title":"奇米奇米动漫",
       "link":"http://www.qimiqimi.co",
@@ -3484,7 +3252,7 @@
    {
       "name":"20mao",
       "title":"天龙影院",
-      "link":"http://m.20mao.com",
+      "link":"http://www.tl86tv.com",
       "description":"天龙影院",
       "localImageResource":"",
       "presenter":"Movie",
@@ -3496,48 +3264,48 @@
       "category":[
          {
             "name":"电影",
-            "link":"http://m.20mao.com/List/17"
+            "link":"http://www.tl86tv.com/List1/17"
          },
          {
             "name":"欧美剧",
-            "link":"http://m.20mao.com/List/11"
+            "link":"http://www.tl86tv.com/List/11"
          },
          {
             "name":"日韩剧",
-            "link":"http://m.20mao.com/List/12"
+            "link":"http://www.tl86tv.com/List/12"
          },
          {
             "name":"国产剧",
-            "link":"http://m.20mao.com/List/9"
+            "link":"http://www.tl86tv.com/List/9"
          },
          {
             "name":"TVB专区",
-            "link":"http://m.20mao.com/List/52"
+            "link":"http://www.tl86tv.com/List/52"
          },
          {
             "name":"动漫频道",
-            "link":"http://m.20mao.com/List/48"
+            "link":"http://www.tl86tv.com/List/48"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page.Html",
-         "pageone":"-1.Html",
+         "pagerule":"--------#page---.html",
+         "pageone":"--------1---.html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"ul.channel-list li a",
+            "selector":"div.mvlist li",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"div.cont h3",
-            "attrName":"text",
+            "selector":"a img",
+            "attrName":"alt",
             "filter":""
          },
          "thumb":{
-            "selector":"div.pic img",
+            "selector":"a img",
             "attrName":"src",
             "filter":""
          },
@@ -3551,7 +3319,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.series-list li",
+            "selector":"div.list.playlist",
             "attrName":"",
             "filter":""
          },
@@ -3563,7 +3331,7 @@
          "link":{
             "selector":"a",
             "attrName":"href",
-            "filter":""
+            "filter":"\\'(.*))\\'"
          }
       },
       "play":{
