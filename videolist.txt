@@ -6780,24 +6780,24 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"_#page.html",
+         "pagerule":"/page/#page",
          "fetchtype":"default",
-         "pageone":".html",
+         "pageone":"",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"h3.dytit a",
+            "selector":"div.bt_img.mi_ne_kd.mrb ul li a",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
-            "attrName":"text",
+            "selector":"img",
+            "attrName":"alt",
             "filter":""
          },
          "thumb":{
-            "selector":"",
-            "attrName":"text",
+            "selector":"img",
+            "attrName":"src",
             "filter":""
          },
          "link":{
