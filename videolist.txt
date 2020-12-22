@@ -6786,22 +6786,22 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"h3.dytit a",
+            "selector":"div.bt_img li",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"",
+            "selector":"h3.dytit a",
             "attrName":"text",
             "filter":""
          },
          "thumb":{
-            "selector":"",
-            "attrName":"text",
+            "selector":"img.thumb",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
-            "selector":"",
+            "selector":"h3.dytit a",
             "attrName":"href",
             "filter":""
          }
