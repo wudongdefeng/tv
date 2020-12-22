@@ -6088,46 +6088,30 @@
       "category":[
          {
             "name":"电影",
-            "link":"http://vtyyy.com/index.php/vod/show/id/1/page/"
+            "link":"http://vtyyy.com/vs/dy"
          },
          {
             "name":"连续剧",
-            "link":"http://vtyyy.com/index.php/vod/show/id/2/page/"
-         },
-         {
-            "name":"欧美剧",
-            "link":"http://vtyyy.com/index.php/vod/show/id/16/page/"
-         },
-         {
-            "name":"日韩剧",
-            "link":"http://vtyyy.com/index.php/vod/show/id/15/page/"
-         },
-         {
-            "name":"国产剧",
-            "link":"http://vtyyy.com/index.php/vod/show/id/13/page/"
-         },
-         {
-            "name":"港台剧",
-            "link":"http://vtyyy.com/index.php/vod/show/id/14/page/"
+            "link":"http://vtyyy.com/vt/dsj"
          },
          {
             "name":"综艺",
-            "link":"http://vtyyy.com/index.php/vod/show/id/3/page/"
+            "link":"http://vtyyy.com/vt/zy"
          },
          {
             "name":"动漫",
-            "link":"http://vtyyy.com/index.php/vod/show/id/4/page/"
+            "link":"http://vtyyy.com/vt/dm"
          }
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"#page.html",
+         "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":"1.html",
+         "pageone":"-1.html",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"a.link-hover",
+            "selector":"a.link-stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
@@ -6137,7 +6121,7 @@
             "filter":""
          },
          "thumb":{
-            "selector":"img",
+            "selector":"",
             "attrName":"data-original",
             "filter":""
          },
@@ -6151,7 +6135,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.videourl a",
+            "selector":"ul.stui-content__playlist a ",
             "attrName":"",
             "filter":""
          },
@@ -6174,11 +6158,11 @@
       "search":{
          "useragent":"default",
          "fetchtype":"default",
-         "pagerule":"http://vtyyy.com/index.php/vod/search/page/#mpageno/wd/#msearchword.html",
+         "pagerule":"http://vtyyy.com/vodsearch/#msearchword----------#mpageno---.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"a.link-hover",
+            "selector":"a.v-thumb",
             "attrName":"",
             "filter":""
          },
@@ -6194,116 +6178,6 @@
          },
          "link":{
             "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"Wsys",
-      "title":"无双影视",
-      "link":"https://53ys.cc",
-      "description":"53ys.cc",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/GEzzejmg",
-      "category":[
-         {
-            "name":"电影",
-            "link":"https://53ys.cc/vodshow/1"
-         },
-         {
-            "name":"连续剧",
-            "link":"https://53ys.cc/vodshow/2"
-         },
-         {
-            "name":"综艺",
-            "link":"https://53ys.cc/vodshow/3"
-         },
-         {
-            "name":"动漫",
-            "link":"https://53ys.cc/vodshow/4"
-         }
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"/page/#page.html",
-         "fetchtype":"default",
-         "pageone":".html",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"ul.fed-list-info li",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"a.fed-list-title",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a.fed-list-pics",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.fed-list-pics",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"div.fed-drop-btms a.fed-btns-info",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"default",
-         "filter":"url=(.*)",
-         "player":"ijk"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "pagerule":"https://53ys.cc/vodsearch/so#msearchword/page/#mpageno.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"dl.fed-deta-info",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"h1.fed-font-xvi a",
-            "attrName":"text",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"a.fed-list-pics",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"a.fed-list-pics",
             "attrName":"href",
             "filter":""
          }
