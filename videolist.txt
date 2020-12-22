@@ -359,7 +359,7 @@
       "inword":".m3u8,.mp4",
       "uninword":"?url=",
       "next":"detail",
-      "thumb":"https://tlgur.com/d/GEzOmpyg",
+      "thumb":"https://tlgur.com/d/G7opYzMG",
       "category":[
          {
             "name":"电视剧",
