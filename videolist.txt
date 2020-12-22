@@ -1041,7 +1041,7 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"",
+      "uninword":"5fe1f18b",
       "next":"detail",
       "thumb":"https://tlgur.com/d/8ekk32ag",
       "category":[
