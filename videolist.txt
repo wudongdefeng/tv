@@ -6810,7 +6810,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"a.pbplay",
+            "selector":"div.paly_list_btn a",
             "attrName":"",
             "filter":""
          },
