@@ -484,10 +484,6 @@
             "link":"http://www.cqzyw.net:88/index.php/vod/type/id/15"
          },
          {
-            "name":"国产剧",
-            "link":"http://www.cqzyw.net:88/index.php/vod/type/id/13"
-         },
-         {
             "name":"综艺",
             "link":"http://www.cqzyw.net:88/index.php/vod/type/id/3"
          },
