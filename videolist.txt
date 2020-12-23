@@ -481,7 +481,7 @@
          },
          {
             "name":"国产剧",
-            "link":"http://www.cqzyw.net:88/index.php/vod/type/id/13"
+            "link":"http://www.cqzyw.net:88/index.php/vod/type/id/15"
          },
          {
             "name":"综艺",
@@ -1163,7 +1163,7 @@
       "presenter":"Movie",
       "openBrowser":"no",
       "inword":".m3u8,.mp4",
-      "uninword":"5fe1",
+      "uninword":"/m3u8/",
       "next":"detail",
       "thumb":"https://tlgur.com/d/8ekk32ag",
       "category":[
