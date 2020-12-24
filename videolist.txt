@@ -7044,7 +7044,7 @@
          "fetchtype":"browser",
          "onclick":"yes",
          "clickcontainer":{
-            "selector":"button.vjs-big-play-button",
+            "selector":"a.wp-playlist-caption",
             "attrName":"",
             "filter":""
          },
@@ -7066,7 +7066,6 @@
       },
       "play":{
          "useragent":"default",
-         "type":"mobile",
          "filter":"",
          "player":"vlc"
       },
