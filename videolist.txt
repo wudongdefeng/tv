@@ -7066,8 +7066,8 @@
       },
       "play":{
          "useragent":"default",
-         "type":"html",
-         "filter":"\\\"src0\\\":\\\"(.*)\\\",\\\"src1\\\":",
+         "type":"mobile",
+         "filter":"",
          "player":"vlc"
       },
       "search":{
