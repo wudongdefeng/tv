@@ -7044,7 +7044,7 @@
          "fetchtype":"browser",
          "onclick":"yes",
          "clickcontainer":{
-            "selector":"a.wp-playlist-caption",
+            "selector":"button.vjs-big-play-button",
             "attrName":"",
             "filter":""
          },
