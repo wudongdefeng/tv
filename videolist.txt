@@ -573,54 +573,123 @@
       }
    },
    {
-    "name": "jianying",
-    "title": "简影",
-    "link": "https://tv.syrme.top",
-    "description": "简影",
-    "localImageResource": "",
-    "presenter": "Movie",
-    "openBrowser": "no",
-    "inword":".m3u8,.mp4",
-    "uninword":"51.la,?url=,dplayer/v3",
-    "next":"detail",
-    "thumb":"https://s3.ax1x.com/2020/11/18/DmsMlV.png",
-     "category":[{'name': '美剧', 'link': 'https://tv.syrme.top/list?category=美剧&size=24'}, {'name': '韩剧', 'link': 'https://tv.syrme.top/list?category=韩剧&size=24'}, {'name': '日剧', 'link': 'https://tv.syrme.top/list?category=日剧&size=24'}, {'name': '动漫', 'link': 'https://tv.syrme.top/list?category=动漫&size=24'}, {'name': '国产', 'link': 'https://tv.syrme.top/list?category=国产&size=24'}, {'name': '纪录', 'link': 'https://tv.syrme.top/list?category=纪录&size=24'}, {'name': '游戏', 'link': 'https://tv.syrme.top/list?category=游戏&size=24'}, {'name': '教程', 'link': 'https://tv.syrme.top/list?category=教程&size=24'}, {'name': '电影', 'link': 'https://tv.syrme.top/list?category=%E7%94%B5%E5%BD%B1&size=24'}, {'name': '动作', 'link': 'https://tv.syrme.top/tag?tag=动作&size=24'}, {'name': '科幻', 'link': 'https://tv.syrme.top/tag?tag=科幻&size=24'}, {'name': '爱情', 'link': 'https://tv.syrme.top/tag?tag=爱情&size=24'}, {'name': '动画', 'link': 'https://tv.syrme.top/tag?tag=动画&size=24'}, {'name': '喜剧', 'link': 'https://tv.syrme.top/tag?tag=喜剧&size=24'}, {'name': '犯罪', 'link': 'https://tv.syrme.top/tag?tag=犯罪&size=24'}, {'name': '纪录', 'link': 'https://tv.syrme.top/tag?tag=纪录&size=24'}, {'name': '戏剧', 'link': 'https://tv.syrme.top/tag?tag=戏剧&size=24'}, {'name': '家庭', 'link': 'https://tv.syrme.top/tag?tag=家庭&size=24'}, {'name': '恐怖', 'link': 'https://tv.syrme.top/tag?tag=恐怖&size=24'}, {'name': '浪漫', 'link': 'https://tv.syrme.top/tag?tag=浪漫&size=24'}, {'name': '惊悚', 'link': 'https://tv.syrme.top/tag?tag=惊悚&size=24'}],
-    "list": {
-      "pagefilter":"",
-      "pagerule": "&page=#page",
-      "pageone": "&page=1",
-      "fetchtype":"default",
-      "pagesize": 8,
-      "useragent": "default",
-      "videoscontainer":{"selector":"li.movies","attrName":"", "filter": "" },
-      "title":{"selector":"h2.Title","attrName":"text","filter": "" },
-      "thumb":{"selector":"img","attrName":"src","filter": "" },
-      "link":{"selector":"a","attrName":"href","filter": "" }
-    },
-    "detail": {
-      "useragent": "default",
-      "fetchtype":"default",
-      "videoscontainer":{"selector":"li.cat-item","attrName":"","filter": "" },
-      "title":{"selector":"a","attrName":"text","filter": "" },
-      "link":{"selector":"a","attrName":"href","filter": "" }
-    },
-    "play": {
-      "useragent": "mobile",
-      "filter": "",
-      "player": "ijk"
-    },
-    "search": {
-      "useragent": "default",
-      "fetchtype":"default",
-      "pagerule": "https://tv.syrme.top/searcha?q=#msearchword",
-      "pageone": "",
-      "pagesize": 8,
-       "videoscontainer":{"selector":"li.movies","attrName":"", "filter": "" },
-      "title":{"selector":"h2.Title","attrName":"text","filter": "" },
-      "thumb":{"selector":"img","attrName":"src","filter": "" },
-      "link":{"selector":"a","attrName":"href","filter": "" }
-    }
-  },
+      "name":"jianying",
+      "title":"简影",
+      "link":"https://tv.syrme.top",
+      "description":"简影",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"51.la,?url=,dplayer/v3",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/gj5zXAYG",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://tv.syrme.top/list?category=%E7%94%B5%E5%BD%B1&size=24"
+         },
+         {
+            "name":"美剧",
+            "link":"https://tv.syrme.top/list?category=美剧&size=24"
+         },
+         {
+            "name":"韩剧",
+            "link":"https://tv.syrme.top/list?category=韩剧&size=24"
+         },
+                  {
+            "name":"国产",
+            "link":"https://tv.syrme.top/list?category=国产&size=24"
+         },
+         {
+            "name":"日剧",
+            "link":"https://tv.syrme.top/list?category=日剧&size=24"
+         },
+         {
+            "name":"动漫",
+            "link":"https://tv.syrme.top/list?category=动漫&size=24"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"&page=#page",
+         "pageone":"&page=1",
+         "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"li.movies",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"h2.Title",
+            "attrName":"text",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img",
+            "attrName":"src",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"li.cat-item",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"a",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"default",
+         "fetchtype":"default",
+         "pagerule":"https://tv.syrme.top/searcha?q=#msearchword",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"li.movies",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"h2.Title",
+            "attrName":"text",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"img",
+            "attrName":"src",
+            "filter":""
+         },
+         "link":{
+            "selector":"a",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
    {
       "name":"Tzfile",
       "title":"团长资源",
