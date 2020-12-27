@@ -381,7 +381,7 @@
       "list":{
          "pagefilter":"",
          "pagerule":"-#page.html",
-         "pageone":".html",
+         "pageone":"-1.html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
@@ -433,121 +433,11 @@
       "search":{
          "useragent":"mobile",
          "fetchtype":"default",
-         "pagerule":"https://www.bwl87.com/index.php/vodsearch/#msearchword----------#mpageno---.html",
-         "pageone":"",
-         "pagesize":8,
-         "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"title",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"data-original",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      }
-   },
-   {
-      "name":"EPANG",
-      "title":"阿房影视",
-      "link":"https://www.bwl87.com",
-      "description":"bwl87.com",
-      "localImageResource":"",
-      "presenter":"Movie",
-      "openBrowser":"no",
-      "inword":".m3u8,.mp4",
-      "uninword":"?url=",
-      "next":"detail",
-      "thumb":"https://tlgur.com/d/G7opYzMG",
-      "category":[
-         {
-            "name":"电视剧",
-            "link":"https://www.bwl87.com/type/2"
-         },
-         {
-            "name":"电影",
-            "link":"https://www.bwl87.com/type/1"
-         },
-         {
-            "name":"动漫",
-            "link":"https://www.bwl87.com/type/4"
-         },
-         {
-            "name":"综艺",
-            "link":"https://www.bwl87.com/type/3"
-         },
-      ],
-      "list":{
-         "pagefilter":"",
-         "pagerule":"-#page",
-         "fetchtype":"default",
-         "pageone":"",
-         "pagesize":8,
-         "useragent":"default",
-         "videoscontainer":{
-            "selector":"a.",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         },
-         "thumb":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "detail":{
-         "useragent":"default",
-         "fetchtype":"default",
-         "videoscontainer":{
-            "selector":"a.btn.btn-min",
-            "attrName":"",
-            "filter":""
-         },
-         "title":{
-            "selector":"",
-            "attrName":"text",
-            "filter":""
-         },
-         "link":{
-            "selector":"",
-            "attrName":"href",
-            "filter":""
-         }
-      },
-      "play":{
-         "useragent":"mobile",
-         "filter":"",
-         "player":"exo2"
-      },
-      "search":{
-         "useragent":"default",
-         "fetchtype":"default",
          "pagerule":"https://bwl87.com/search/#msearchword----------#mpageno---.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"a.stui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
