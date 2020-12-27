@@ -380,8 +380,8 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page.html",
-         "pageone":"-1.html",
+         "pagerule":"-#page",
+         "pageone":"",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
