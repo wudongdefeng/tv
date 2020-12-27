@@ -382,9 +382,9 @@
          "pagefilter":"",
          "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":".html",
+         "pageone":"-1.html",
          "pagesize":8,
-         "useragent":"mobile",
+         "useragent":"default",
          "videoscontainer":{
             "selector":"a.myui-vodlist__thumb",
             "attrName":"",
@@ -407,7 +407,7 @@
          }
       },
       "detail":{
-         "useragent":"mobile",
+         "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
             "selector":"a.btn.btn-min",
