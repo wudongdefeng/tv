@@ -352,6 +352,116 @@
       "name":"EPANG1",
       "title":"阿房影视",
       "link":"https://www.bwl87.com",
+      "description":"阿房影视",
+      "localImageResource":"",
+      "presenter":"Movie",
+      "openBrowser":"no",
+      "inword":".m3u8,.mp4",
+      "uninword":"",
+      "next":"detail",
+      "thumb":"https://tlgur.com/d/G7opYzMG",
+      "category":[
+         {
+            "name":"电影",
+            "link":"https://www.bwl87.com/type/1"
+         },
+         {
+            "name":"电视剧",
+            "link":"https://www.bwl87.com/type/2"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.bwl87.com/type/3"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.bwl87.com/type/4"
+         }
+      ],
+      "list":{
+         "pagefilter":"",
+         "pagerule":"-#page.html",
+         "pageone":".html",
+         "fetchtype":"default",
+         "pagesize":8,
+         "useragent":"default",
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "detail":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "videoscontainer":{
+            "selector":"ul.stui-content__playlist a",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"text",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      },
+      "play":{
+         "useragent":"mobile",
+         "filter":"url=(.*)",
+         "player":"ijk"
+      },
+      "search":{
+         "useragent":"mobile",
+         "fetchtype":"default",
+         "pagerule":"https://www.bwl87.com/index.php/vodsearch/#msearchword----------#mpageno---.html",
+         "pageone":"",
+         "pagesize":8,
+         "videoscontainer":{
+            "selector":"a.stui-vodlist__thumb",
+            "attrName":"",
+            "filter":""
+         },
+         "title":{
+            "selector":"",
+            "attrName":"title",
+            "filter":""
+         },
+         "thumb":{
+            "selector":"",
+            "attrName":"data-original",
+            "filter":""
+         },
+         "link":{
+            "selector":"",
+            "attrName":"href",
+            "filter":""
+         }
+      }
+   },
+   {
+      "name":"EPANG",
+      "title":"阿房影视",
+      "link":"https://www.bwl87.com",
       "description":"bwl87.com",
       "localImageResource":"",
       "presenter":"Movie",
@@ -380,13 +490,13 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page.html",
+         "pagerule":"-#page",
          "fetchtype":"default",
-         "pageone":"-1.html",
+         "pageone":"",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"a",
+            "selector":"a.",
             "attrName":"",
             "filter":""
          },
