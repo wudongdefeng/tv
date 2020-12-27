@@ -351,8 +351,8 @@
    {
       "name":"EPANG",
       "title":"阿房影视",
-      "link":"https://epang.ml",
-      "description":"epang.ml",
+      "link":"https://www.bwl87.com",
+      "description":"bwl87.com",
       "localImageResource":"",
       "presenter":"Movie",
       "openBrowser":"no",
@@ -363,37 +363,45 @@
       "category":[
          {
             "name":"电视剧",
-            "link":"https://epang.ml/tv"
+            "link":"https://www.bwl87.com/type/2"
          },
          {
             "name":"电影",
-            "link":"https://epang.ml/movie"
-         }
+            "link":"https://www.bwl87.com/type/1"
+         },
+         {
+            "name":"动漫",
+            "link":"https://www.bwl87.com/type/4"
+         },
+         {
+            "name":"综艺",
+            "link":"https://www.bwl87.com/type/3"
+         },
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"/page/#page",
+         "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":"",
+         "pageone":"-1.html",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"div.bt_img li",
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"h3.dytit a",
-            "attrName":"text",
+            "selector":"",
+            "attrName":"title",
             "filter":""
          },
          "thumb":{
-            "selector":"img.thumb",
+            "selector":"",
             "attrName":"data-original",
             "filter":""
          },
          "link":{
-            "selector":"h3.dytit a",
+            "selector":"",
             "attrName":"href",
             "filter":""
          }
@@ -402,7 +410,7 @@
          "useragent":"default",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"div.mi_paly_box div a",
+            "selector":"a.btn.btn-min",
             "attrName":"",
             "filter":""
          },
@@ -425,22 +433,22 @@
       "search":{
          "useragent":"default",
          "fetchtype":"default",
-         "pagerule":"https://epang.ml/page/#mpageno?s=#msearchword",
+         "pagerule":"https://bwl87.com/search/#msearchword----------#mpageno---.html",
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"div.bt_img li a",
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
          "title":{
-            "selector":"img",
-            "attrName":"alt",
+            "selector":"",
+            "attrName":"title",
             "filter":""
          },
          "thumb":{
-            "selector":"img",
-            "attrName":"src",
+            "selector":"",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
