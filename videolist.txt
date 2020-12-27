@@ -382,7 +382,7 @@
          "pagefilter":"",
          "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":"-1.html",
+         "pageone":".html",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
