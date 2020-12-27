@@ -386,7 +386,7 @@
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"a.myui-vodlist__thumb",
+            "selector":"div.myui-vodlist__box a",
             "attrName":"",
             "filter":""
          },
