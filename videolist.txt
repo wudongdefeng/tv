@@ -380,8 +380,8 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page",
-         "pageone":"",
+         "pagerule":"-#page.html",
+         "pageone":"-1.html",
          "fetchtype":"default",
          "pagesize":8,
          "useragent":"default",
@@ -397,12 +397,12 @@
          },
          "thumb":{
             "selector":"",
-            "attrName":"title",
+            "attrName":"data-original",
             "filter":""
          },
          "link":{
             "selector":"",
-            "attrName":"title",
+            "attrName":"href",
             "filter":""
          }
       },
