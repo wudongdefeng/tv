@@ -349,7 +349,7 @@
       }
    },
    {
-      "name":"EPANG",
+      "name":"EPANG1",
       "title":"阿房影视",
       "link":"https://www.bwl87.com",
       "description":"bwl87.com",
@@ -380,13 +380,13 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page",
+         "pagerule":"-#page.html",
          "fetchtype":"default",
-         "pageone":"",
+         "pageone":"-1.html",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
-            "selector":"ul.myui-vodlist li a",
+            "selector":"a",
             "attrName":"",
             "filter":""
          },
