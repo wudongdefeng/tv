@@ -410,7 +410,7 @@
          "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.stui-content__playlist a",
+            "selector":"ul.myui-content__list playlist a",
             "attrName":"",
             "filter":""
          },
@@ -437,7 +437,7 @@
          "pageone":"",
          "pagesize":8,
          "videoscontainer":{
-            "selector":"a.stui-vodlist__thumb",
+            "selector":"a.myui-vodlist__thumb",
             "attrName":"",
             "filter":""
          },
