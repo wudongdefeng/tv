@@ -397,12 +397,12 @@
          },
          "thumb":{
             "selector":"",
-            "attrName":"data-original",
+            "attrName":"title",
             "filter":""
          },
          "link":{
             "selector":"",
-            "attrName":"href",
+            "attrName":"title",
             "filter":""
          }
       },
