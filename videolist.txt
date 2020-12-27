@@ -380,9 +380,9 @@
       ],
       "list":{
          "pagefilter":"",
-         "pagerule":"-#page.html",
+         "pagerule":"-#page",
          "fetchtype":"default",
-         "pageone":"-1.html",
+         "pageone":"",
          "pagesize":8,
          "useragent":"default",
          "videoscontainer":{
