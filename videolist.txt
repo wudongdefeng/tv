@@ -410,7 +410,7 @@
          "useragent":"mobile",
          "fetchtype":"default",
          "videoscontainer":{
-            "selector":"ul.myui-content__list playlist a",
+            "selector":"ul.myui-content__list a",
             "attrName":"",
             "filter":""
          },
